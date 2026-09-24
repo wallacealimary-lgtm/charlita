@@ -1,0 +1,128 @@
+# es|pos|gender|en|def_es|example_es|topic|latam_alt
+aprovechar|v||to make the most of / take advantage of|Sacar provecho o utilidad de algo.|Aprovecha el buen tiempo para ir a la playa.|vida diaria|
+quedarse|v||to stay / to remain|Permanecer en un lugar.|Hoy me quedo en casa, estoy cansado.|vida diaria|
+darse cuenta|expr||to realise|Notar o comprender algo de repente.|Me di cuenta de que había perdido las llaves.|vida diaria|
+echar de menos|expr||to miss (someone or something)|Sentir la falta de alguien o algo.|Echo de menos a mi familia.|emociones|extrañar
+merecer la pena|expr||to be worth it|Valer el esfuerzo que cuesta.|El viaje es largo, pero merece la pena.|vida diaria|valer la pena
+tener ganas de|expr||to feel like / to look forward to|Desear hacer algo.|Tengo ganas de verte.|emociones|
+hacer falta|expr||to be necessary / to need|Ser necesario.|No hace falta que vengas.|vida diaria|
+ponerse|v||to become / to put on (clothes)|Cambiar de estado de ánimo; vestirse con algo.|Se puso nervioso antes del examen.|emociones|
+volverse|v||to become (lasting change)|Cambiar de manera profunda o duradera.|Se ha vuelto muy tranquilo con los años.|carácter|
+lograr|v||to achieve / to manage to|Conseguir lo que se intenta.|Por fin logré terminar el proyecto.|trabajo|
+agobiado|adj||overwhelmed / stressed|Que se siente con demasiada presión o preocupación.|Estoy agobiado con tanto trabajo.|emociones|
+agobiar|v||to overwhelm|Causar mucha presión o cansancio.|Me agobian las multitudes.|emociones|
+disfrutar|v||to enjoy|Sentir placer con algo.|Disfruta de tus vacaciones.|tiempo libre|
+soportar|v||to put up with / to stand|Tolerar algo desagradable.|No soporto el ruido de la obra.|emociones|
+aguantar|v||to put up with / to hold on|Resistir o tolerar algo difícil.|Aguanta un poco más, ya casi llegamos.|emociones|
+molestar|v||to bother|Causar incomodidad o enfado.|¿Te molesta si abro la ventana?|relaciones|
+enfadarse|v||to get angry|Sentir o mostrar enojo.|No te enfades, era una broma.|emociones|enojarse
+enfadado|adj||angry|Que siente enojo.|Mi hermana está enfadada conmigo.|emociones|enojado
+ilusión|n|f|excitement / hope|Esperanza alegre de que pase algo bueno.|Me hace mucha ilusión este viaje.|emociones|
+hacer ilusión|expr||to be excited about|Producir alegría y esperanza.|Me hace ilusión conocer a tus padres.|emociones|
+orgulloso|adj||proud|Que siente satisfacción por algo propio o de otros.|Estoy orgulloso de ti.|emociones|
+avergonzado|adj||embarrassed / ashamed|Que siente vergüenza.|Me sentí avergonzado por el error.|emociones|
+vergüenza|n|f|embarrassment / shame|Sentimiento de incomodidad por algo que se ha hecho.|Me da vergüenza hablar en público.|emociones|
+dar vergüenza|expr||to be embarrassed|Causar incomodidad por timidez o culpa.|Me da vergüenza cantar.|emociones|
+tímido|adj||shy|Que se siente inseguro al relacionarse con otros.|De pequeño era muy tímido.|carácter|
+cariñoso|adj||affectionate|Que muestra amor y ternura.|Mi perra es muy cariñosa.|carácter|
+maleducado|adj||rude|Que no tiene buenos modales.|No seas maleducado y saluda.|carácter|
+simpático|adj||nice / friendly|Agradable en el trato con los demás.|El camarero es muy simpático.|carácter|
+antipático|adj||unfriendly / unpleasant|Que resulta desagradable en el trato.|El vecino es un poco antipático.|carácter|
+testarudo|adj||stubborn|Que mantiene su opinión aunque no tenga razón.|Eres más testarudo que una mula.|carácter|terco
+vago|adj||lazy|Que no quiere trabajar o esforzarse.|Hoy estoy vago, no quiero cocinar.|carácter|flojo
+despistado|adj||absent-minded / scatterbrained|Que se distrae y olvida las cosas.|Soy tan despistado que perdí el móvil otra vez.|carácter|distraído
+agradable|adj||pleasant|Que produce una sensación buena.|Hace una tarde muy agradable.|vida diaria|
+cansado|adj||tired|Que tiene falta de energía.|Estoy cansado después del viaje.|vida diaria|
+agotado|adj||exhausted / sold out|Muy cansado; que ya no queda.|Las entradas están agotadas.|vida diaria|
+harto|adj||fed up|Cansado de algo que se repite.|Estoy harto de la lluvia.|emociones|
+preocupado|adj||worried|Que siente inquietud por algo.|Está preocupado por su madre.|emociones|
+tranquilo|adj||calm / quiet|Sin nervios ni ruido.|Es un barrio muy tranquilo.|emociones|
+relajado|adj||relaxed|Sin tensión.|Después del masaje me siento relajado.|emociones|
+nervioso|adj||nervous|Inquieto o intranquilo.|Me pongo nervioso cuando hablo por teléfono.|emociones|
+asustado|adj||scared|Que tiene miedo.|El gato está asustado por los petardos.|emociones|
+sorprendido|adj||surprised|Que siente sorpresa.|Me quedé sorprendido con la noticia.|emociones|
+decepcionado|adj||disappointed|Que siente que algo no fue como esperaba.|Estoy un poco decepcionado con la película.|emociones|
+celoso|adj||jealous|Que siente celos.|Mi perro se pone celoso del gato.|emociones|
+envidia|n|f|envy|Deseo de tener lo que tiene otro.|Me das envidia con esas vacaciones.|emociones|
+alivio|n|m|relief|Sensación de descanso tras una preocupación.|¡Qué alivio! Ya ha llegado.|emociones|
+esfuerzo|n|m|effort|Uso de fuerza o energía para conseguir algo.|Con esfuerzo, todo se consigue.|trabajo|
+éxito|n|m|success|Resultado bueno de algo.|La fiesta fue un éxito.|trabajo|
+fracaso|n|m|failure|Resultado malo de algo que se intenta.|El plan fue un fracaso total.|trabajo|
+reto|n|m|challenge|Algo difícil que se intenta superar.|Hablar español cada día es un reto.|trabajo|desafío
+meta|n|f|goal|Fin al que se dirigen las acciones.|Mi meta es hablar sin miedo.|trabajo|
+propósito|n|m|purpose / resolution|Intención de hacer algo.|Mi propósito de año nuevo es leer más.|vida diaria|
+costumbre|n|f|habit / custom|Forma de actuar que se repite.|Tengo la costumbre de pasear por la mañana.|vida diaria|
+rutina|n|f|routine|Hábito de hacer las cosas siempre igual.|Necesito cambiar mi rutina.|vida diaria|
+madrugar|v||to get up early|Levantarse muy temprano.|Mañana tengo que madrugar.|vida diaria|
+trasnochar|v||to stay up late|Acostarse muy tarde.|No me gusta trasnochar entre semana.|vida diaria|desvelarse
+siesta|n|f|nap|Descanso corto después de comer.|Los domingos siempre echo la siesta.|vida diaria|
+echar una siesta|expr||to take a nap|Dormir un rato después de comer.|Voy a echar una siesta de veinte minutos.|vida diaria|
+recado|n|m|errand / message|Tarea pequeña fuera de casa; mensaje.|Tengo que hacer unos recados.|vida diaria|mandado
+tarea|n|f|task / homework|Trabajo que hay que hacer.|Las tareas de casa me aburren.|vida diaria|
+quehacer|n|m|chore|Tarea u ocupación.|Tengo mil quehaceres hoy.|vida diaria|
+plazo|n|m|deadline / term|Tiempo señalado para hacer algo.|El plazo termina el viernes.|trabajo|
+fecha límite|n|f|deadline|Último día para hacer algo.|La fecha límite es mañana.|trabajo|
+reunión|n|f|meeting|Encuentro de varias personas para tratar algo.|Tengo una reunión a las diez.|trabajo|junta
+jefe|n|m|boss|Persona que manda en un trabajo.|Mi jefe está de vacaciones.|trabajo|
+compañero|n|m|colleague / classmate / partner|Persona con la que se trabaja, estudia o vive.|Mi compañero de piso es de Bilbao.|trabajo|
+compañero de piso|n|m|flatmate|Persona con quien se comparte piso.|Mi compañero de piso cocina muy bien.|casa|roommate
+sueldo|n|m|salary|Dinero que se recibe por trabajar.|Me han subido el sueldo.|trabajo|salario
+paro|n|m|unemployment|Situación de no tener trabajo.|Mi primo está en el paro.|trabajo|desempleo
+contrato|n|m|contract|Acuerdo escrito entre personas.|He firmado un contrato de un año.|trabajo|
+entrevista|n|f|interview|Conversación para conocer a un candidato o persona.|Mañana tengo una entrevista de trabajo.|trabajo|
+currar|v||to work (colloquial)|Trabajar, en lenguaje coloquial.|Hoy curro hasta las ocho.|trabajo|chambear
+curro|n|m|job / work (colloquial)|Trabajo, en lenguaje coloquial.|Estoy buscando un curro nuevo.|trabajo|chamba
+despedir|v||to fire / to say goodbye|Echar a alguien de un trabajo; decir adiós.|Han despedido a diez personas.|trabajo|
+dimitir|v||to resign|Dejar un cargo voluntariamente.|El ministro ha dimitido.|trabajo|renunciar
+jubilarse|v||to retire|Dejar de trabajar por la edad.|Mi padre se jubila el año que viene.|trabajo|
+empresa|n|f|company|Organización que ofrece productos o servicios.|Trabajo en una empresa de software.|trabajo|
+cliente|n|mf|customer / client|Persona que compra o usa un servicio.|El cliente siempre tiene razón.|trabajo|
+horario|n|m|schedule / timetable|Distribución de las horas de algo.|Tengo horario flexible.|trabajo|
+jornada|n|f|working day|Tiempo de trabajo diario.|Hoy tengo jornada intensiva.|trabajo|
+teletrabajar|v||to work from home|Trabajar a distancia usando internet.|Los viernes teletrabajo.|trabajo|
+correo electrónico|n|m|email|Mensaje enviado por internet.|Te mando un correo electrónico.|tecnología|
+ordenador|n|m|computer|Máquina para procesar información.|Mi ordenador va muy lento.|tecnología|computadora
+portátil|n|m|laptop|Ordenador que se puede llevar.|Me he comprado un portátil nuevo.|tecnología|laptop
+móvil|n|m|mobile phone|Teléfono que se lleva encima.|Me he dejado el móvil en casa.|tecnología|celular
+cargador|n|m|charger|Aparato para cargar la batería.|¿Tienes un cargador de móvil?|tecnología|
+batería|n|f|battery|Parte que guarda la energía de un aparato.|Me queda poca batería.|tecnología|pila
+contraseña|n|f|password|Clave secreta para entrar en algo.|He olvidado la contraseña del wifi.|tecnología|
+descargar|v||to download|Pasar archivos de internet a un aparato.|Descarga la app, es gratis.|tecnología|bajar
+subir|v||to upload / to go up|Pasar archivos a internet; ir hacia arriba.|Sube las fotos a la nube.|tecnología|
+pantalla|n|f|screen|Superficie donde se ven las imágenes.|Se me ha roto la pantalla del móvil.|tecnología|
+aplicación|n|f|app|Programa para el móvil o el ordenador.|Uso una aplicación para aprender idiomas.|tecnología|
+red social|n|f|social network|Plataforma de internet para conectar personas.|He dejado las redes sociales.|tecnología|
+enlace|n|m|link|Conexión a otra página de internet.|Te paso el enlace por WhatsApp.|tecnología|
+archivo|n|m|file|Documento guardado en un ordenador.|No puedo abrir el archivo.|tecnología|
+guardar|v||to save / to keep|Conservar algo; almacenar datos.|Guarda el documento antes de cerrar.|tecnología|
+borrar|v||to delete / to erase|Hacer desaparecer algo escrito o guardado.|He borrado las fotos sin querer.|tecnología|
+apagar|v||to turn off|Hacer que algo deje de funcionar.|Apaga la luz, por favor.|casa|
+encender|v||to turn on / to light|Hacer que algo empiece a funcionar.|¿Enciendo la calefacción?|casa|prender
+enchufar|v||to plug in|Conectar un aparato a la corriente.|Enchufa el portátil, que se apaga.|casa|
+enchufe|n|m|plug / socket; connections (colloquial)|Aparato para conectar a la corriente; contactos útiles.|No hay ningún enchufe cerca de la cama.|casa|
+piso|n|m|flat / floor|Vivienda en un edificio; planta de un edificio.|Vivo en un piso en Gràcia.|casa|departamento
+alquiler|n|m|rent|Precio por usar una vivienda o cosa.|El alquiler en Barcelona es muy caro.|casa|renta
+alquilar|v||to rent|Pagar por usar algo durante un tiempo.|Queremos alquilar un coche.|casa|rentar
+casero|n|m|landlord|Dueño de la vivienda alquilada.|El casero no quiere arreglar la ducha.|casa|
+fianza|n|f|deposit|Dinero que se deja como garantía.|Nos devolvieron la fianza entera.|casa|depósito
+mudarse|v||to move (house)|Cambiar de vivienda.|Nos mudamos el mes que viene.|casa|
+vecino|n|m|neighbour|Persona que vive cerca.|Mi vecina tiene tres gatos.|casa|
+barrio|n|m|neighbourhood|Parte de una ciudad.|Me encanta mi barrio.|ciudad|colonia
+ascensor|n|m|lift / elevator|Aparato para subir y bajar en un edificio.|El ascensor no funciona otra vez.|casa|elevador
+escalera|n|f|stairs / ladder|Serie de escalones para subir o bajar.|Subo por la escalera para hacer ejercicio.|casa|
+balcón|n|m|balcony|Espacio abierto que sale de una ventana.|Desayuno en el balcón.|casa|
+terraza|n|f|terrace|Espacio al aire libre en un edificio o bar.|Vamos a una terraza a tomar algo.|casa|
+azotea|n|f|rooftop|Parte de arriba de un edificio, plana y abierta.|Hay una fiesta en la azotea.|casa|
+calefacción|n|f|heating|Sistema para calentar un lugar.|Pon la calefacción, que hace frío.|casa|
+aire acondicionado|n|m|air conditioning|Aparato que enfría el aire.|Sin aire acondicionado no puedo dormir.|casa|
+grifo|n|m|tap|Pieza por donde sale el agua.|El grifo de la cocina gotea.|casa|llave
+fregadero|n|m|kitchen sink|Pila de la cocina para lavar platos.|Deja los platos en el fregadero.|casa|
+fregar|v||to wash up / to mop|Limpiar platos o el suelo con agua.|Hoy me toca fregar los platos.|casa|lavar los trastes
+lavavajillas|n|m|dishwasher|Máquina que lava los platos.|Pon el lavavajillas antes de dormir.|casa|
+lavadora|n|f|washing machine|Máquina que lava la ropa.|He puesto una lavadora.|casa|
+tender la ropa|expr||to hang out the washing|Colgar la ropa para que se seque.|Tiendo la ropa en el balcón.|casa|
+planchar|v||to iron|Quitar las arrugas a la ropa con una plancha.|Odio planchar camisas.|casa|
+barrer|v||to sweep|Limpiar el suelo con una escoba.|Barre la cocina, por favor.|casa|
+basura|n|f|rubbish|Cosas que se tiran.|¿Puedes bajar la basura?|casa|
+sacar la basura|expr||to take out the rubbish|Llevar la basura al contenedor.|Te toca sacar la basura.|casa|
+reciclar|v||to recycle|Separar residuos para usarlos otra vez.|En casa reciclamos todo.|naturaleza|

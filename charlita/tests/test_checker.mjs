@@ -1,0 +1,12 @@
+import {check, checkEnglish, enVariants, overlap} from '/home/claude/charlita/js/checker.js';
+const t=(n,c,e)=>console.log((c===e?'PASS':'FAIL'),n,c);
+t('aprobechar', check('aprobechar',['aprovechar']).grade,'ok');
+t('hablo for habló', check('hablo',['habló'],[{form:'hablo',label:'yo · presente'}]).grade,'casi');
+t('fué', check('fué',['fue'],[{form:'fui',label:'yo'}]).grade,'ok');
+t('habló exact', check('habló',['habló'],[{form:'hablo'}]).grade,'ok');
+t('hablamos for hablan', check('hablamos',['hablan'],[{form:'hablamos',label:'nosotros'}]).grade,'casi');
+t('garbage', check('xyz',['hablan']).grade,'no');
+t('tuviese alt', check('tuviese',['tuviera','tuviese']).grade,'ok');
+t('en take advantage', checkEnglish('take advantage of',enVariants('to make the most of / take advantage of')).grade,'ok');
+t('en typo', checkEnglish('to realize',enVariants('to realise')).grade,'ok');
+t('overlap', overlap('If I had time I would go to the gym','If I had time, I would go to the gym.')>0.9,true);

@@ -1,0 +1,107 @@
+cumplido|n|m|compliment|Frase amable sobre alguien.|Gracias por el cumplido.|relaciones|
+curiosidad|n|f|curiosity|Deseo de saber.|Tengo curiosidad por saberlo.|emociones|
+dañar|v||to damage|Causar daño.|El sol daña la piel.|reserva|
+debate|n|m|debate|Discusión de ideas.|Un debate muy interesante.|comunicación|
+débil|adj||weak|Con poca fuerza.|Me siento débil.|salud|
+decepción|n|f|disappointment|Sentimiento de desilusión.|Fue una gran decepción.|emociones|
+dedicarse|v||to do for a living|Trabajar en algo.|¿A qué te dedicas?|trabajo|
+defecto|n|m|flaw / defect|Imperfección.|Todos tenemos defectos.|carácter|
+dejar caer|expr||to drop / to hint|Soltar algo; insinuar.|Dejó caer que se iba.|comunicación|
+delicioso|adj||delicious|Muy rico.|La tarta está deliciosa.|comida|
+demostrar|v||to show / to prove|Probar algo con hechos.|Demuéstralo.|comunicación|
+denunciar|v||to report (to police)|Informar de un delito.|Denuncié el robo del móvil.|sociedad|
+derrochar|v||to waste / to squander|Gastar sin control.|No derroches el agua.|dinero|
+desafío|n|m|challenge|Reto.|Aprender un idioma es un desafío.|trabajo|
+desagradable|adj||unpleasant|Que no gusta.|Un olor muy desagradable.|expresiones|
+desanimarse|v||to lose heart|Perder el ánimo.|No te desanimes.|emociones|
+desastre|n|m|disaster|Cosa muy mala.|¡Qué desastre de día!|expresiones|
+descuento|n|m|discount|Rebaja en el precio.|Tiene un diez por ciento de descuento.|compras|
+desear|v||to wish / to want|Querer algo con fuerza.|Te deseo lo mejor.|emociones|
+desgracia|n|f|misfortune|Suceso triste.|Por desgracia, no puedo ir.|emociones|
+deshacer|v||to undo / to unpack|Deshacer lo hecho; sacar de la maleta.|Todavía no he deshecho la maleta.|viajes|
+desnudo|adj||naked|Sin ropa.|No salgas desnudo al balcón.|ropa|
+despedida|n|f|farewell / goodbye party|Acto de despedirse.|Hacemos una despedida el viernes.|relaciones|
+despistado|adj||scatterbrained|Distraído.|Hoy estoy muy despistado.|carácter|
+destacar|v||to stand out / to highlight|Sobresalir; señalar.|Destaca por su simpatía.|reserva|
+detalle|n|m|detail / nice gesture|Parte pequeña; gesto amable.|¡Qué detalle, gracias!|relaciones|
+diario|adj||daily|De cada día.|Mi paseo diario.|vida diaria|
+disfrute|n|m|enjoyment|Acción de disfrutar.|Es puro disfrute.|emociones|
+disponible|adj||available|Que se puede usar.|¿Estás disponible mañana?|trabajo|
+distraído|adj||distracted|Sin atención.|Estaba distraído con el móvil.|carácter|
+divertirse|v||to have fun|Pasarlo bien.|¡Que os divirtáis!|tiempo libre|
+doble|adj||double|Dos veces.|Una habitación doble.|viajes|
+ducha|n|f|shower|Aparato para lavarse con agua.|La ducha no tiene agua caliente.|casa|regadera
+dueño|n|m|owner|Persona a quien pertenece algo.|El dueño del bar es muy majo.|trabajo|
+echar|v||to throw / to pour / to kick out|Lanzar; poner; expulsar.|Échale sal a la ensalada.|vida diaria|
+edificio|n|m|building|Construcción.|Un edificio modernista.|ciudad|
+eficaz|adj||effective|Que funciona bien.|Un método muy eficaz.|trabajo|
+egoísta|adj||selfish|Que solo piensa en sí mismo.|No seas egoísta.|carácter|
+elegante|adj||elegant|Con estilo.|Vas muy elegante.|ropa|
+emocionante|adj||exciting|Que emociona.|Fue un partido emocionante.|emociones|
+emocionarse|v||to get emotional / excited|Sentir emoción.|Me emocioné al verla.|emociones|
+empleo|n|m|employment / job|Trabajo.|Busco empleo en el sector.|trabajo|
+empujar|v||to push|Mover con fuerza hacia delante.|Empuja la puerta.|vida diaria|
+enamorado|adj||in love|Que siente amor.|Está enamorado de ella.|emociones|
+encargar|v||to order / to entrust|Pedir que se haga algo.|He encargado una tarta.|compras|
+encima|adv||on top / what's more|Sobre algo; además.|Y encima llovía.|conectores|
+enfermedad|n|f|illness|Alteración de la salud.|Una enfermedad leve.|salud|
+enfermo|adj||ill|Que tiene una enfermedad.|Estoy enfermo, no voy.|salud|
+engañar|v||to deceive / to cheat|Hacer creer algo falso.|No me engañes.|relaciones|
+enorme|adj||enormous|Muy grande.|Un árbol enorme.|descripción|
+ensayo|n|m|rehearsal / essay|Prueba antes de actuar; escrito.|El ensayo es a las seis.|cultura|
+entero|adj||whole|Completo.|Me comí la pizza entera.|descripción|
+entretenido|adj||entertaining|Que divierte.|Un libro muy entretenido.|cultura|
+entusiasmo|n|m|enthusiasm|Emoción intensa.|Lo hace con entusiasmo.|emociones|
+envidioso|adj||envious|Que siente envidia.|No seas envidioso.|carácter|
+equilibrio|n|m|balance|Estado estable.|Busco equilibrio entre trabajo y vida.|emociones|
+equipaje de mano|n|m|hand luggage|Maleta que se lleva en la cabina.|Solo llevo equipaje de mano.|viajes|
+escalofrío|n|m|shiver|Temblor por frío o miedo.|Me dio un escalofrío.|salud|
+escaparate|n|m|shop window|Ventana de una tienda.|Lo vi en el escaparate.|compras|vitrina
+escaso|adj||scarce|Poco abundante.|El agua es escasa.|reserva|
+esconder|v||to hide|Poner donde no se ve.|¿Dónde has escondido el regalo?|vida diaria|
+espantoso|adj||dreadful|Muy feo o malo.|Un tiempo espantoso.|expresiones|
+especial|adj||special|Diferente, único.|Hoy es un día especial.|expresiones|
+espectáculo|n|m|show|Función pública.|Un espectáculo de flamenco.|cultura|
+estable|adj||stable|Firme, sin cambios.|Un trabajo estable.|trabajo|
+estupendamente|adv||wonderfully|Muy bien.|Lo pasamos estupendamente.|expresiones|
+evitar|v||to avoid|Impedir que algo pase.|Evito el centro en agosto.|vida diaria|
+exagerar|v||to exaggerate|Decir más de lo real.|No exageres.|comunicación|
+excursión|n|f|trip / excursion|Salida corta.|Hicimos una excursión a Montserrat.|viajes|
+exigente|adj||demanding|Que pide mucho.|Mi jefa es muy exigente.|carácter|
+experiencia|n|f|experience|Conocimiento práctico; vivencia.|Fue una experiencia única.|trabajo|
+fácilmente|adv||easily|Sin dificultad.|Se ofende fácilmente.|expresiones|
+falta|n|f|lack / fault|Ausencia; error.|Falta de tiempo.|reserva|
+fama|n|f|fame / reputation|Reputación.|Tiene fama de puntual.|sociedad|
+familiar|adj||familiar / family|De la familia; conocido.|Me suena familiar.|familia|
+fiable|adj||reliable|Que se puede confiar.|Un coche fiable.|carácter|
+fijo|adj||fixed / permanent|Que no cambia.|Tengo un contrato fijo.|trabajo|
+firmeza|n|f|firmness|Seguridad y solidez.|Habla con firmeza.|carácter|
+flojo|adj||weak / loose|Sin fuerza; poco apretado.|Estoy flojo en matemáticas.|reserva|
+folleto|n|m|leaflet|Papel informativo.|Coge un folleto en la entrada.|viajes|
+formación|n|f|training / education|Preparación para un trabajo.|Tengo formación en diseño.|trabajo|
+fracasar|v||to fail|No tener éxito.|El plan fracasó.|trabajo|
+franqueza|n|f|frankness|Sinceridad.|Te hablo con franqueza.|comunicación|
+frase|n|f|sentence / phrase|Conjunto de palabras con sentido.|Repite la frase.|comunicación|
+frecuente|adj||frequent|Que se repite a menudo.|Es un error frecuente.|reserva|
+fuerte|adj||strong|Con fuerza.|Un café fuerte, por favor.|descripción|
+fumar|v||to smoke|Aspirar humo de tabaco.|Prohibido fumar.|salud|
+gafas de sol|n|f|sunglasses|Gafas oscuras para el sol.|Olvidé las gafas de sol.|ropa|lentes de sol
+gasto|n|m|expense|Dinero gastado.|Gastos de envío incluidos.|dinero|
+gesto|n|m|gesture|Movimiento expresivo.|Fue un gesto bonito.|comunicación|
+golpe|n|m|blow / knock|Choque fuerte.|Me di un golpe en la cabeza.|salud|
+gordo|adj||fat / big|Con mucha grasa; grande.|El gordo de Navidad.|descripción|
+gorro|n|m|woolly hat|Prenda de punto para la cabeza.|Ponte el gorro, hace frío.|ropa|
+grabar|v||to record|Guardar sonido o imagen.|Grábame un audio.|tecnología|
+gratitud|n|f|gratitude|Agradecimiento.|Siento mucha gratitud.|emociones|
+grave|adj||serious|Importante, peligroso.|No es nada grave.|salud|
+guiño|n|m|wink / nod|Gesto con un ojo; referencia.|Un guiño a los fans.|comunicación|
+habitación|n|f|room / bedroom|Parte de una casa.|Un piso de tres habitaciones.|casa|cuarto
+habitual|adj||usual|Que se hace a menudo.|Es lo habitual.|vida diaria|
+hablador|adj||talkative|Que habla mucho.|Mi abuela es muy habladora.|carácter|platicador
+hacer cola|expr||to queue|Esperar en fila.|Hicimos cola una hora.|compras|hacer fila
+hecho|n|m|fact / event|Cosa que ha pasado.|Es un hecho.|comunicación|
+herencia|n|f|inheritance|Bienes que se reciben al morir alguien.|Una herencia de su abuela.|familia|
+hielo|n|m|ice|Agua congelada.|Con hielo, por favor.|comida|
+hogar|n|m|home|Casa donde se vive.|Hogar, dulce hogar.|casa|
+honrado|adj||honest|Que actúa con honradez.|Es un hombre honrado.|carácter|
+huella|n|f|footprint / trace|Marca que deja algo.|Dejó huella en todos.|reserva|

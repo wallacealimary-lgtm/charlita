@@ -1,0 +1,109 @@
+acontecimiento|n|m|event|Suceso importante.|La boda fue todo un acontecimiento.|sociedad|
+suceso|n|m|incident / event|Algo que ocurre, a veces malo.|La policía investiga el suceso.|sociedad|
+ocurrir|v||to happen / to occur|Pasar algo.|¿Qué ha ocurrido?|sociedad|
+ocurrírsele|expr||to occur to someone (an idea)|Venir una idea a la mente.|Se me ha ocurrido una idea.|comunicación|
+idea|n|f|idea|Pensamiento o plan.|¡Qué buena idea!|comunicación|
+pensamiento|n|m|thought|Lo que se piensa.|Tengo pensamientos muy raros hoy.|comunicación|
+recuerdo|n|m|memory / souvenir|Algo que se recuerda; objeto de un viaje.|Tengo buenos recuerdos de ese verano.|emociones|
+acordarse|v||to remember|Tener algo en la memoria.|¿Te acuerdas de mí?|comunicación|
+olvidarse|v||to forget|Dejar de recordar.|Se me ha olvidado tu nombre.|comunicación|
+memoria|n|f|memory (ability)|Capacidad de recordar.|Tengo muy mala memoria.|comunicación|
+imaginar|v||to imagine|Crear algo en la mente.|Imagina que vives en la playa.|comunicación|
+suponer|v||to suppose / to mean|Pensar que algo es probable; implicar.|Supongo que sí.|comunicación|
+sospechar|v||to suspect|Creer algo sin pruebas.|Sospecho que no viene.|comunicación|
+dudar|v||to doubt / to hesitate|No estar seguro.|Dudo que llegue a tiempo.|comunicación|
+duda|n|f|doubt / question|Falta de seguridad; pregunta.|¿Tienes alguna duda?|comunicación|
+decidir|v||to decide|Tomar una decisión.|Todavía no he decidido.|comunicación|
+decisión|n|f|decision|Resolución que se toma.|Fue una decisión difícil.|comunicación|
+elegir|v||to choose|Escoger entre varias cosas.|Elige tú el restaurante.|comunicación|
+escoger|v||to choose / to pick|Elegir.|Escoge el que más te guste.|comunicación|
+preferir|v||to prefer|Querer más una cosa que otra.|Prefiero el té.|comunicación|
+proponer|v||to propose / to suggest|Presentar una idea.|Te propongo un plan.|comunicación|
+sugerir|v||to suggest|Proponer una idea.|¿Qué sugieres?|comunicación|
+convencer|v||to convince|Hacer que alguien cambie de idea.|Me convenciste.|comunicación|
+negar|v||to deny|Decir que algo no es cierto.|Niega haberlo hecho.|comunicación|
+admitir|v||to admit|Reconocer algo.|Admito que me equivoqué.|comunicación|
+reconocer|v||to recognise / to admit|Identificar; aceptar algo.|No te había reconocido.|comunicación|
+prometer|v||to promise|Asegurar que se hará algo.|Te prometo que vendré.|comunicación|
+cumplir|v||to fulfil / to turn (age)|Hacer lo prometido; tener un año más.|Mañana cumplo cuarenta.|comunicación|
+quejarse de|expr||to complain about|Mostrar descontento por algo.|Se queja de todo.|comunicación|
+pedir un favor|expr||to ask a favour|Solicitar ayuda.|¿Te puedo pedir un favor?|comunicación|
+hacer caso|expr||to pay attention / to listen to|Seguir un consejo u orden.|Nunca me haces caso.|comunicación|
+prestar atención|expr||to pay attention|Estar atento.|Presta atención a los verbos.|comunicación|
+fijarse|v||to notice / to pay attention|Darse cuenta de algo mirando bien.|¿Te has fijado en su pelo?|comunicación|
+notar|v||to notice / to feel|Percibir algo.|Noto que estás cansado.|comunicación|
+parecer|v||to seem / to think|Dar una impresión; opinar.|¿Qué te parece?|comunicación|
+tener en cuenta|expr||to take into account|Considerar algo.|Ten en cuenta que cierra pronto.|comunicación|
+en serio|expr||seriously|De verdad.|¿En serio? No me lo creo.|expresiones|
+qué fuerte|expr||no way / that's crazy|Expresión de sorpresa fuerte.|¡Qué fuerte lo que me cuentas!|expresiones|
+qué morro|expr||what a cheek|Expresión ante alguien que abusa.|¡Qué morro tiene, se coló!|expresiones|qué descaro
+colarse|v||to jump the queue / to sneak in|Pasar sin respetar el turno.|Una señora se ha colado.|expresiones|
+estar hecho polvo|expr||to be exhausted|Estar muy cansado.|Estoy hecho polvo.|expresiones|
+estar en las nubes|expr||to be daydreaming|Estar distraído.|Perdona, estaba en las nubes.|expresiones|
+tomar el pelo|expr||to pull someone's leg|Burlarse de alguien en broma.|¿Me estás tomando el pelo?|expresiones|
+meter la pata|expr||to put one's foot in it|Equivocarse de forma torpe.|Metí la pata con mi jefe.|expresiones|regarla
+no pasa nada|expr||it's fine / no problem|No hay problema.|No pasa nada, tranquilo.|expresiones|
+ponerse las pilas|expr||to get one's act together|Empezar a esforzarse.|Me tengo que poner las pilas con el español.|expresiones|
+costar un ojo de la cara|expr||to cost an arm and a leg|Ser muy caro.|El piso cuesta un ojo de la cara.|expresiones|
+ser pan comido|expr||to be a piece of cake|Ser muy fácil.|Este ejercicio es pan comido.|expresiones|
+estar como una cabra|expr||to be nuts|Estar loco (cariñoso).|Mi tía está como una cabra.|expresiones|
+dar igual|expr||not to matter|No importar.|Me da igual el color.|expresiones|
+echar la bronca|expr||to tell off|Regañar a alguien.|Me echó la bronca por llegar tarde.|expresiones|regañar
+tener mala leche|expr||to be bad-tempered / mean|Tener mal carácter.|Ese tío tiene muy mala leche.|expresiones|
+ir al grano|expr||to get to the point|Hablar directamente de lo importante.|Vamos al grano.|expresiones|
+hablar por los codos|expr||to talk a lot|Hablar muchísimo.|Mi vecina habla por los codos.|expresiones|
+estar liado|expr||to be busy|Tener mucho que hacer.|Esta semana estoy muy liado.|expresiones|estar ocupado
+lío|n|m|mess / mix-up|Desorden; situación complicada.|¡Menudo lío!|expresiones|
+menudo|adj||what a... (emphasis)|Usado para exagerar.|¡Menudo día!|expresiones|
+tener suerte|expr||to be lucky|Tener buena fortuna.|¡Qué suerte tienes!|expresiones|
+mala suerte|expr||bad luck|Fortuna desfavorable.|Qué mala suerte, está cerrado.|expresiones|
+ojalá|expr||I hope / if only|Expresión de deseo.|Ojalá haga sol mañana.|expresiones|
+enhorabuena|expr||congratulations|Felicitación por un logro.|¡Enhorabuena por el trabajo!|expresiones|felicidades
+felicidades|expr||happy birthday / congratulations|Felicitación por algo.|¡Felicidades por tu cumple!|expresiones|
+que aproveche|expr||enjoy your meal|Deseo antes de comer.|—Que aproveche. —Gracias.|expresiones|buen provecho
+salud|expr||bless you / cheers|Se dice al estornudar o al brindar.|¡Salud!|expresiones|
+con permiso|expr||excuse me (passing)|Para pedir paso.|Con permiso, ¿puedo pasar?|expresiones|
+perdona|expr||sorry / excuse me|Para disculparse o llamar la atención.|Perdona, ¿sabes dónde está el metro?|expresiones|disculpa
+porfa|expr||please (colloquial)|Por favor.|Pásame la sal, porfa.|expresiones|
+de nada|expr||you're welcome|Respuesta a gracias.|—Gracias. —De nada.|expresiones|
+no hay de qué|expr||don't mention it|Respuesta amable a gracias.|No hay de qué, para eso estamos.|expresiones|
+hasta luego|expr||see you later|Despedida.|¡Hasta luego, que vaya bien!|expresiones|
+nos vemos|expr||see you|Despedida informal.|Nos vemos el lunes.|expresiones|
+cuídate|expr||take care|Despedida con cariño.|Cuídate mucho.|expresiones|
+que vaya bien|expr||all the best / have a good one|Deseo al despedirse.|Venga, que vaya bien.|expresiones|
+estar de acuerdo con|expr||to agree with|Compartir la opinión de alguien.|Estoy de acuerdo con Marta.|comunicación|
+llevar razón|expr||to be right (Spain)|Tener razón.|Llevas razón, perdona.|comunicación|
+fuente|n|f|source / fountain|Origen de algo; lugar de donde sale agua.|Según fuentes oficiales...|sociedad|
+dato|n|m|piece of data / fact|Información concreta.|Me faltan datos.|sociedad|
+encuesta|n|f|survey|Serie de preguntas para conocer opiniones.|Rellena esta encuesta, porfa.|sociedad|
+estudio|n|m|study / studio|Investigación; piso pequeño.|Vivo en un estudio.|sociedad|
+investigar|v||to investigate / to research|Buscar información para descubrir algo.|Investigan las causas del incendio.|sociedad|
+descubrimiento|n|m|discovery|Hallazgo de algo nuevo.|Un gran descubrimiento científico.|sociedad|
+ciencia|n|f|science|Conocimiento basado en pruebas.|Me gusta la divulgación de ciencia.|cultura|
+avance|n|m|advance / progress|Paso hacia adelante.|Es un gran avance.|sociedad|
+aumento|n|m|increase / rise|Crecimiento en cantidad.|Hay un aumento del turismo.|sociedad|
+disminuir|v||to decrease|Hacerse menor.|El paro ha disminuido.|sociedad|
+aumentar|v||to increase|Hacerse mayor.|Han aumentado los precios.|sociedad|
+mejorar|v||to improve|Hacer o hacerse mejor.|Tu español ha mejorado mucho.|estudios|
+empeorar|v||to get worse|Hacer o hacerse peor.|El tiempo va a empeorar.|sociedad|
+lograr|v||to achieve|Conseguir algo que se intenta.|Lo has logrado.|trabajo|
+conseguir|v||to get / to manage|Obtener lo que se desea.|¡Conseguí entradas!|trabajo|
+fallar|v||to fail / to miss|No funcionar; no acertar.|Me falla la memoria.|trabajo|
+acertar|v||to get right / to guess correctly|Dar con la respuesta correcta.|¡Has acertado!|estudios|atinar
+adivinar|v||to guess|Descubrir algo sin saberlo.|Adivina quién ha llamado.|estudios|
+intentar|v||to try|Hacer esfuerzos para lograr algo.|Inténtalo otra vez.|trabajo|
+esforzarse|v||to make an effort|Poner mucho empeño.|Me esfuerzo cada día.|trabajo|
+cansarse|v||to get tired|Perder energía.|Me canso mucho subiendo.|salud|
+hartarse|v||to get fed up|Cansarse de algo.|Me he hartado de esperar.|emociones|
+agobio|n|m|stress / overwhelm|Sensación de presión.|¡Qué agobio de semana!|emociones|
+estrés|n|m|stress|Tensión por exceso de actividad.|Tengo mucho estrés en el trabajo.|emociones|
+bienestar|n|m|well-being|Estado de estar bien.|Tu bienestar es lo primero.|emociones|
+felicidad|n|f|happiness|Estado de alegría.|La felicidad está en las cosas pequeñas.|emociones|
+tristeza|n|f|sadness|Estado de pena.|Siento tristeza cuando llueve.|emociones|
+miedo|n|m|fear|Sensación de peligro.|Tengo miedo a hablar en público.|emociones|
+confianza|n|f|confidence / trust|Seguridad en uno mismo o en otros.|Necesito más confianza al hablar.|emociones|
+seguridad|n|f|security / confidence|Estado sin peligro; firmeza.|Habla con seguridad.|emociones|
+orgullo|n|m|pride|Satisfacción por algo propio.|Es un orgullo trabajar aquí.|emociones|
+sorpresa|n|f|surprise|Algo inesperado.|¡Qué sorpresa verte aquí!|emociones|
+esperanza|n|f|hope|Confianza en que pase algo bueno.|No pierdas la esperanza.|emociones|
+paz|n|f|peace|Tranquilidad.|Necesito un poco de paz.|emociones|

@@ -1,0 +1,106 @@
+# tense|person(0-5)|verb|spanish with {}|english
+ind_presente|0|trabajar|{} en una oficina cerca de la playa.|I work in an office near the beach.
+ind_presente|5|vivir|Mis padres {} en Londres.|My parents live in London.
+ind_presente|3|comer|Normalmente {} a las dos.|We normally eat at two.
+ind_presente|1|querer|¿{} un café?|Do you want a coffee?
+ind_presente|2|llegar|El tren {} a las ocho.|The train arrives at eight.
+ind_presente|0|ir|Mañana {} al médico.|I'm going to the doctor tomorrow.
+ind_presente|4|tener|¿{} hambre?|Are you (all) hungry?
+ind_presente|0|conocer|No {} a nadie aquí.|I don't know anyone here.
+ind_perfecto|0|comer|Hoy {} demasiado.|I have eaten too much today.
+ind_perfecto|3|ver|Esta semana {} dos películas.|We have seen two films this week.
+ind_perfecto|1|estar|¿Alguna vez {} en Sevilla?|Have you ever been to Seville?
+ind_perfecto|0|hacer|Todavía no {} los deberes.|I haven't done the homework yet.
+ind_perfecto|2|llamar|Tu madre {} esta mañana.|Your mother has called this morning.
+ind_perfecto|5|abrir|{} un bar nuevo en mi calle.|They've opened a new bar on my street.
+ind_perfecto|0|decir|Ya te lo {}.|I've already told you.
+ind_perfecto|4|volver|¿Ya {} de vacaciones?|Have you (all) come back from holiday already?
+ind_indefinido|0|ir|El año pasado {} a México.|Last year I went to Mexico.
+ind_indefinido|2|nacer|Mi abuela {} en 1940.|My grandmother was born in 1940.
+ind_indefinido|3|comprar|Ayer {} un sofá.|Yesterday we bought a sofa.
+ind_indefinido|5|llegar|{} tarde a la boda.|They arrived late to the wedding.
+ind_indefinido|0|tener|En 2019 {} un accidente.|In 2019 I had an accident.
+ind_indefinido|1|hacer|¿Qué {} el fin de semana pasado?|What did you do last weekend?
+ind_indefinido|2|decir|Me {} que no podía venir.|He told me he couldn't come.
+ind_indefinido|0|poder|Al final no {} dormir.|In the end I couldn't sleep.
+ind_indefinido|5|ser|Las vacaciones {} increíbles.|The holidays were incredible.
+ind_imperfecto|0|vivir|Cuando era pequeño, {} en el campo.|When I was little, I used to live in the countryside.
+ind_imperfecto|3|jugar|De niños, {} en la calle todos los días.|As kids, we used to play in the street every day.
+ind_imperfecto|2|llover|{} cuando salí de casa.|It was raining when I left home.
+ind_imperfecto|0|ser|Antes {} muy tímido.|I used to be very shy.
+ind_imperfecto|5|tener|Mis abuelos {} una tienda.|My grandparents used to have a shop.
+ind_imperfecto|1|dormir|¿{} cuando te llamé?|Were you sleeping when I called you?
+ind_imperfecto|2|hacer|{} mucho calor en la playa.|It was very hot at the beach.
+ind_imperfecto|0|querer|Solo {} saber la verdad.|I just wanted to know the truth.
+ind_pluscuam|2|salir|Cuando llegué, el tren ya {}.|When I arrived, the train had already left.
+ind_pluscuam|0|ver|Nunca {} el mar antes de ese viaje.|I had never seen the sea before that trip.
+ind_pluscuam|5|terminar|{} de cenar cuando llamaste.|They had finished dinner when you called.
+ind_pluscuam|3|comprar|Ya {} las entradas.|We had already bought the tickets.
+ind_pluscuam|1|decir|Me dijiste que no {} nada.|You told me you hadn't said anything.
+ind_futuro|0|llamar|Te {} mañana.|I will call you tomorrow.
+ind_futuro|2|llover|Dicen que {} el domingo.|They say it will rain on Sunday.
+ind_futuro|3|ver|Ya {}.|We'll see.
+ind_futuro|5|venir|{} a las nueve.|They will come at nine.
+ind_futuro|1|tener|Algún día {} tu propia casa.|One day you will have your own house.
+ind_futuro|0|hacer|Lo {} el lunes, te lo prometo.|I'll do it on Monday, I promise.
+ind_futuro|2|estar|¿Dónde {} mi móvil?|Where can my phone be? (I wonder where it is)
+ind_futuro|4|poder|Mañana {} ir a la playa.|Tomorrow you (all) will be able to go to the beach.
+ind_futuro_comp|5|llegar|A las diez ya {}.|By ten they will have arrived.
+ind_futuro_comp|0|terminar|Para el viernes {} el informe.|By Friday I will have finished the report.
+ind_futuro_comp|2|perder|{} el autobús.|He must have missed the bus. (He'll have missed it)
+ind_futuro_comp|3|aprender|En un año {} mucho.|In a year we will have learned a lot.
+ind_condicional|0|ir|Si tuviera tiempo, {} al gimnasio.|If I had time, I would go to the gym.
+ind_condicional|0|querer|{} un café con leche, por favor.|I would like a white coffee, please.
+ind_condicional|1|poder|¿{} ayudarme con esto?|Could you help me with this?
+ind_condicional|3|vivir|Nosotros {} en la playa si pudiéramos.|We would live by the beach if we could.
+ind_condicional|2|decir|Mi madre {} que es una locura.|My mother would say it's crazy.
+ind_condicional|0|comprar|Yo no {} ese coche.|I wouldn't buy that car.
+ind_condicional|1|deber|{} dormir más.|You should sleep more.
+ind_condicional|5|venir|Dijeron que {} a la fiesta.|They said they would come to the party.
+ind_condicional|0|hacer|¿Qué {} yo sin ti?|What would I do without you?
+ind_condicional|4|tener|Con más dinero, {} menos problemas.|With more money, you (all) would have fewer problems.
+ind_condicional|2|ser|{} genial verte este finde.|It would be great to see you this weekend.
+ind_condicional|0|salir|Yo que tú, no {} esta noche.|If I were you, I wouldn't go out tonight.
+ind_condicional|3|preferir|{} quedarnos en casa.|We would prefer to stay at home.
+ind_condicional|2|estar|{} bien cambiar de piso.|It would be good to change flats.
+ind_condicional|0|decir|Yo {} que sí.|I would say yes.
+ind_condicional_comp|0|ir|Si me hubieras avisado, {} contigo.|If you had told me, I would have gone with you.
+ind_condicional_comp|3|llegar|Sin el atasco, {} a tiempo.|Without the traffic jam, we would have arrived on time.
+ind_condicional_comp|1|hacer|¿Tú qué {} en mi lugar?|What would you have done in my place?
+ind_condicional_comp|5|comprar|{} la casa, pero era muy cara.|They would have bought the house, but it was very expensive.
+ind_condicional_comp|0|decir|Yo no {} eso.|I wouldn't have said that.
+ind_condicional_comp|2|ser|{} mejor quedarse en casa.|It would have been better to stay at home.
+sub_presente|1|venir|Espero que {} a la cena.|I hope (that) you come to the dinner.
+sub_presente|2|llover|No creo que {} hoy.|I don't think it will rain today.
+sub_presente|3|ir|Quiere que {} con él.|He wants us to go with him.
+sub_presente|1|tener|¡Que {} buen viaje!|Have a good trip!
+sub_presente|5|saber|Es importante que lo {}.|It's important that they know it.
+sub_presente|0|poder|Me alegro de que {} venir.|I'm glad that I can come.
+sub_presente|1|llegar|Llámame cuando {} a casa.|Call me when you get home.
+sub_presente|4|hacer|Os pido que {} menos ruido.|I'm asking you (all) to make less noise.
+sub_presente|2|estar|Ojalá {} bien.|I hope he is well.
+sub_perfecto|1|terminar|Espero que {} el trabajo.|I hope you have finished the work.
+sub_perfecto|5|llegar|No creo que {} todavía.|I don't think they have arrived yet.
+sub_perfecto|2|ver|Me alegro de que lo {}.|I'm glad she has seen it.
+sub_perfecto|3|hacer|Cuando {} la compra, cocinamos.|When we have done the shopping, we'll cook.
+sub_imperfecto|0|tener|Si {} más tiempo, viajaría más.|If I had more time, I would travel more.
+sub_imperfecto|1|ser|Si {} yo, no lo haría.|If you were me, you wouldn't do it.
+sub_imperfecto|2|venir|Quería que {} a la fiesta.|I wanted him to come to the party.
+sub_imperfecto|3|poder|Ojalá {} ir a la playa.|I wish we could go to the beach.
+sub_imperfecto|5|hablar|Les pidió que {} más despacio.|He asked them to speak more slowly.
+sub_imperfecto|0|saber|Si lo {}, te lo diría.|If I knew, I would tell you.
+sub_imperfecto|2|estar|Habla como si {} cansado.|He talks as if he were tired.
+sub_imperfecto|4|vivir|Si {} aquí, iríais a pie.|If you (all) lived here, you would go on foot.
+sub_pluscuam|0|saber|Si lo {}, habría venido antes.|If I had known, I would have come earlier.
+sub_pluscuam|1|estudiar|Si {} más, habrías aprobado.|If you had studied more, you would have passed.
+sub_pluscuam|3|salir|Ojalá {} antes.|I wish we had left earlier.
+sub_pluscuam|5|llegar|Si {} a tiempo, habrían visto el principio.|If they had arrived on time, they would have seen the beginning.
+imp_afirmativo|1|venir|¡{} aquí un momento!|Come here a moment!
+imp_afirmativo|1|decir|{} la verdad.|Tell the truth.
+imp_afirmativo|4|cerrar|{} la puerta, por favor.|Close the door (you all), please.
+imp_afirmativo|2|pasar|{}, por favor.|Come in, please. (formal)
+imp_afirmativo|1|poner|{} la mesa, porfa.|Set the table, please.
+imp_negativo|1|preocupar|No te {}.|Don't worry.
+imp_negativo|1|decir|No se lo {} a nadie.|Don't tell anyone.
+imp_negativo|4|tocar|No {} nada.|Don't (you all) touch anything.
+imp_negativo|2|olvidar|No {} el pasaporte.|Don't forget your passport. (formal)

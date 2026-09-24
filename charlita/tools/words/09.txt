@@ -1,0 +1,103 @@
+aprovecharse de|expr||to take advantage of (someone)|Sacar beneficio abusando de alguien.|Se aprovecha de su amabilidad.|relaciones|
+contar con|expr||to count on / to have|Confiar en alguien; tener.|Cuenta conmigo.|relaciones|
+depender de|expr||to depend on|Estar condicionado por algo.|Depende del tiempo.|comunicación|
+tratarse de|expr||to be about|Ser el tema de algo.|Se trata de un problema serio.|comunicación|
+fiarse de|expr||to trust|Confiar en alguien.|No me fío de él.|relaciones|
+enterarse|v||to find out|Llegar a saber algo.|Me enteré por la radio.|comunicación|
+apañarse|v||to manage / to get by (Spain)|Arreglárselas.|No te preocupes, ya me apaño.|expresiones|arreglárselas
+arreglárselas|expr||to manage / to cope|Encontrar la manera de hacer algo.|Me las arreglo con poco dinero.|expresiones|
+buscarse la vida|expr||to fend for oneself|Espabilarse para salir adelante.|Tuve que buscarme la vida en Londres.|expresiones|
+salir adelante|expr||to get through / to get ahead|Superar una situación difícil.|Salimos adelante juntos.|expresiones|
+espabilar|v||to wise up / to hurry up|Hacerse más listo o rápido.|¡Espabila, que perdemos el tren!|expresiones|
+despistarse|v||to get distracted|Perder la atención.|Me despisté y me pasé la parada.|vida diaria|distraerse
+pasarse|v||to go too far / to miss (a stop) / to drop by|Excederse; ir más allá; visitar brevemente.|Me pasé de parada. Te has pasado con la sal.|expresiones|
+dejar plantado|expr||to stand someone up|No ir a una cita.|Me dejó plantado en el bar.|relaciones|
+ligar|v||to flirt / to pull|Iniciar una relación amorosa pasajera.|Salió a ligar.|relaciones|coquetear
+cita a ciegas|n|f|blind date|Cita con alguien desconocido.|Tuve una cita a ciegas horrible.|relaciones|
+echar a perder|expr||to ruin|Estropear algo.|La lluvia echó a perder el picnic.|expresiones|
+tener que ver|expr||to have to do with|Estar relacionado.|Eso no tiene nada que ver.|comunicación|
+por lo visto|expr||apparently|Según parece.|Por lo visto, cierran el bar.|conectores|
+al parecer|expr||apparently|Según parece.|Al parecer, va a llover.|conectores|
+en cualquier caso|expr||in any case|Sea como sea.|En cualquier caso, te llamo.|conectores|
+de todas formas|expr||anyway|De cualquier manera.|De todas formas, gracias.|conectores|de todos modos
+a no ser que|expr||unless|Excepto si.|Iré, a no ser que llueva.|conectores|
+con tal de que|expr||as long as|Siempre que.|Te lo presto con tal de que me lo devuelvas.|conectores|
+siempre que|expr||whenever / as long as|Cada vez que; con la condición de que.|Siempre que vengo, llueve.|conectores|
+en caso de que|expr||in case|Si ocurre que.|En caso de que no llegue, empezad.|conectores|
+para que|expr||so that|Con el fin de que.|Te lo digo para que lo sepas.|conectores|
+antes de que|expr||before|En un momento anterior a.|Vete antes de que llueva.|conectores|
+después de que|expr||after|En un momento posterior a.|Después de que te fuiste, llegó.|conectores|
+hasta que|expr||until|Hasta el momento en que.|Espera hasta que vuelva.|conectores|
+tan pronto como|expr||as soon as|En cuanto.|Tan pronto como sepa algo, te aviso.|conectores|
+a medida que|expr||as (progressively)|Al mismo tiempo que.|A medida que practicas, mejoras.|conectores|
+cada vez más|expr||more and more|Progresivamente más.|Hablo cada vez más rápido.|conectores|
+cuanto más|expr||the more|Expresión de proporción.|Cuanto más practico, mejor hablo.|conectores|
+ni siquiera|expr||not even|Ni tan solo.|Ni siquiera me saludó.|conectores|
+tampoco|adv||neither / not either|Expresión para negar también.|—No me gusta. —A mí tampoco.|conectores|
+también|adv||also / too|Además, igualmente.|Yo también voy.|conectores|
+solo|adv||only / just|Únicamente.|Solo quiero dormir.|conectores|
+ya no|expr||no longer|Ahora no, aunque antes sí.|Ya no vivo allí.|conectores|
+aún no|expr||not yet|Todavía no.|Aún no he cenado.|conectores|
+dentro de|expr||in (time) / inside|Después de un tiempo; en el interior.|Nos vemos dentro de una hora.|conectores|
+hace|expr||ago|Indica tiempo pasado.|Llegué hace tres años.|conectores|
+desde hace|expr||for (since)|Desde un momento pasado hasta ahora.|Vivo aquí desde hace dos años.|conectores|
+llevar + tiempo|expr||to have been (for a time)|Haber pasado un tiempo en una situación.|Llevo un año en Barcelona.|conectores|
+anoche|adv||last night|La noche de ayer.|Anoche dormí fatal.|tiempo|
+anteayer|adv||the day before yesterday|El día antes de ayer.|Anteayer llovió mucho.|tiempo|antier
+pasado mañana|expr||the day after tomorrow|Dos días después de hoy.|Pasado mañana me voy.|tiempo|
+madrugada|n|f|early morning (small hours)|Horas después de medianoche.|Llegamos a las tres de la madrugada.|tiempo|
+mediodía|n|m|midday|Las doce del día.|Quedamos a mediodía.|tiempo|
+temprano|adv||early|Antes de lo normal.|Me levanto temprano.|tiempo|
+tarde|adv||late|Después de lo normal.|Es tarde, me voy.|tiempo|
+pronto|adv||soon / early|En poco tiempo; temprano.|¡Hasta pronto!|tiempo|
+último|adj||last / latest|Que va al final; más reciente.|Es la última vez.|tiempo|
+próximo|adj||next|Que viene después.|El próximo tren sale a las seis.|tiempo|
+siguiente|adj||following / next|Que va después.|Al día siguiente fuimos a la playa.|tiempo|
+anterior|adj||previous|Que va antes.|La semana anterior estuve enfermo.|tiempo|
+actual|adj||current|De ahora.|Mi trabajo actual es muy tranquilo.|tiempo|
+actualmente|adv||currently|En este momento.|Actualmente vivo en Gràcia.|tiempo|
+eventualmente|adv||possibly / occasionally (false friend)|De forma no segura; a veces.|Eventualmente trabajo los sábados.|tiempo|
+realizar|v||to carry out|Hacer algo.|Realizamos un estudio.|trabajo|
+embarazoso|adj||embarrassing|Que causa vergüenza.|Fue una situación embarazosa.|emociones|
+constiparse|v||to catch a cold|Coger un resfriado.|Me he constipado.|salud|resfriarse
+sensible|adj||sensitive (false friend)|Que se emociona o se afecta fácilmente.|Es muy sensible con las críticas.|carácter|
+sensato|adj||sensible|Que actúa con buen juicio.|Es una decisión sensata.|carácter|
+carpeta|n|f|folder (false friend)|Objeto para guardar papeles.|Guarda los papeles en la carpeta.|trabajo|
+librería|n|f|bookshop (false friend)|Tienda de libros.|Hay una librería preciosa en mi calle.|ciudad|
+biblioteca|n|f|library|Lugar con libros para leer o prestar.|Estudio en la biblioteca.|ciudad|
+éxito|n|m|success (false friend of exit)|Buen resultado.|¡Mucho éxito!|trabajo|
+salida|n|f|exit / departure|Lugar por donde se sale; acción de salir.|La salida está a la izquierda.|ciudad|
+asistir|v||to attend (false friend)|Estar presente en un acto.|Asistí a la reunión.|trabajo|
+recordar|v||to remember / to remind|Tener en la memoria; hacer que otro recuerde.|Recuérdame que compre pan.|comunicación|
+realizar un sueño|expr||to fulfil a dream|Conseguir algo muy deseado.|Vivir junto al mar es realizar un sueño.|emociones|
+soportar|v||to bear / to stand (false friend)|Aguantar algo desagradable.|No soporto el calor.|emociones|
+molestia|n|f|bother / inconvenience|Algo que molesta.|Perdone las molestias.|comunicación|
+ropa interior|n|f|underwear|Prendas debajo de la ropa.|Mete ropa interior en la maleta.|ropa|
+bufanda|n|f|scarf|Prenda para el cuello.|Hace frío, ponte la bufanda.|ropa|
+guantes|n|m|gloves|Prendas para las manos.|He perdido un guante.|ropa|
+gorra|n|f|cap|Sombrero con visera.|Lleva siempre una gorra.|ropa|cachucha
+sombrero|n|m|hat|Prenda para la cabeza.|Un sombrero de paja para el sol.|ropa|
+vestido|n|m|dress|Prenda de una pieza.|Qué vestido tan bonito.|ropa|
+falda|n|f|skirt|Prenda que cae desde la cintura.|Llevaba una falda larga.|ropa|
+traje|n|m|suit|Chaqueta y pantalón a juego.|Para la boda me pongo traje.|ropa|
+quedar bien|expr||to suit / to fit well|Sentar bien una prenda.|Esa camisa te queda muy bien.|ropa|
+sentar bien|expr||to suit / to agree with|Ser favorable; ir bien.|El café no me sienta bien.|ropa|
+probarse|v||to try on|Ponerse ropa para ver cómo queda.|¿Me lo puedo probar?|compras|
+estrecho|adj||tight / narrow|Poco ancho.|Estos pantalones me quedan estrechos.|ropa|apretado
+ancho|adj||wide / loose|De mucha anchura.|Me gusta la ropa ancha.|ropa|holgado
+corto|adj||short|De poca longitud.|Llevo el pelo corto.|ropa|
+largo|adj||long|De mucha longitud.|Fue un día muy largo.|ropa|
+pequeño|adj||small / little|De poco tamaño.|El piso es pequeño.|descripción|
+enorme|adj||huge|Muy grande.|Tiene un perro enorme.|descripción|
+redondo|adj||round|Con forma de círculo.|Una mesa redonda.|descripción|
+cuadrado|adj||square|Con cuatro lados iguales.|Una caja cuadrada.|descripción|
+suave|adj||soft / smooth / gentle|Agradable al tacto; tranquilo.|Esta manta es muy suave.|descripción|
+duro|adj||hard / tough|Difícil de romper; difícil.|Ha sido un año duro.|descripción|
+blando|adj||soft|Que cede al tocarlo.|El colchón es demasiado blando.|descripción|
+ligero|adj||light|De poco peso.|Una cena ligera.|descripción|
+caliente|adj||hot (temperature)|Con temperatura alta.|Cuidado, el plato está caliente.|descripción|
+frío|adj||cold|Con temperatura baja.|El agua está fría.|descripción|
+templado|adj||lukewarm / mild|Ni frío ni caliente.|Un clima templado.|descripción|tibio
+mojado|adj||wet|Con agua.|Tengo los pies mojados.|descripción|
+seco|adj||dry|Sin agua.|La ropa ya está seca.|descripción|
+brillante|adj||bright / shiny / brilliant|Que brilla; muy bueno.|Una idea brillante.|descripción|

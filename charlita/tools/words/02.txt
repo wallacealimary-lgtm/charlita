@@ -1,0 +1,117 @@
+desayuno|n|m|breakfast|Primera comida del día.|¿Qué tomas de desayuno?|comida|
+almuerzo|n|m|mid-morning snack / lunch|Comida ligera a media mañana o al mediodía.|A las once hago un almuerzo.|comida|
+merienda|n|f|afternoon snack|Comida ligera de la tarde.|Los niños toman la merienda a las cinco.|comida|
+cena|n|f|dinner|Última comida del día.|La cena es a las nueve y media.|comida|
+tapa|n|f|tapa / small dish; lid|Pequeña ración de comida; cubierta de un recipiente.|Pedimos unas tapas para compartir.|comida|
+ración|n|f|portion / sharing plate|Cantidad de comida para una o varias personas.|Una ración de patatas bravas, por favor.|comida|
+caña|n|f|small draught beer|Vaso pequeño de cerveza de barril.|¿Nos tomamos una caña?|comida|
+zumo|n|m|juice|Líquido que sale de la fruta.|Un zumo de naranja natural.|comida|jugo
+bocadillo|n|m|sandwich (baguette)|Pan con algo dentro.|Me he traído un bocadillo de tortilla.|comida|
+patata|n|f|potato|Tubérculo que se come cocinado.|Me encanta la tortilla de patata.|comida|papa
+judías verdes|n|f|green beans|Vaina verde que se come como verdura.|Hoy cenamos judías verdes.|comida|ejotes
+melocotón|n|m|peach|Fruta redonda de piel suave.|Este melocotón está muy dulce.|comida|durazno
+fresa|n|f|strawberry|Fruta pequeña y roja.|Fresas con nata, qué rico.|comida|frutilla
+nata|n|f|cream|Parte grasa de la leche.|Un café con nata, por favor.|comida|crema
+mantequilla|n|f|butter|Grasa que se saca de la leche.|Tostada con mantequilla y mermelada.|comida|
+aceite|n|m|oil|Líquido graso de las aceitunas u otras plantas.|Un chorrito de aceite de oliva.|comida|
+ajo|n|m|garlic|Planta de sabor fuerte usada en la cocina.|Esta salsa lleva mucho ajo.|comida|
+cebolla|n|f|onion|Bulbo comestible que hace llorar al cortarlo.|¿Tortilla con o sin cebolla?|comida|
+sartén|n|f|frying pan|Recipiente para freír.|Calienta la sartén con un poco de aceite.|comida|
+olla|n|f|pot|Recipiente hondo para cocinar.|Pon agua a hervir en la olla.|comida|
+horno|n|m|oven|Aparato para asar o cocer alimentos.|El pollo está en el horno.|comida|
+receta|n|f|recipe / prescription|Instrucciones para cocinar; papel del médico.|Me pasas la receta de la paella?|comida|
+cocinar|v||to cook|Preparar la comida.|Me gusta cocinar los domingos.|comida|
+freír|v||to fry|Cocinar algo en aceite caliente.|Fríe los huevos a fuego medio.|comida|
+hervir|v||to boil|Calentar un líquido hasta que hace burbujas.|Hierve la pasta diez minutos.|comida|
+asar|v||to roast / to grill|Cocinar algo directamente al fuego o en el horno.|Vamos a asar unas sardinas.|comida|
+probar|v||to taste / to try|Comer un poco para ver el sabor; intentar.|Prueba esto, está buenísimo.|comida|
+rico|adj||tasty / rich|Que tiene buen sabor; que tiene mucho dinero.|¡Qué rico está el gazpacho!|comida|
+soso|adj||bland / dull|Que tiene poco sabor o poca gracia.|La sopa está un poco sosa.|comida|
+picante|adj||spicy|Que pica en la boca.|No me gusta la comida picante.|comida|
+hambre|n|f|hunger|Ganas de comer.|Tengo un hambre que me muero.|comida|
+sed|n|f|thirst|Ganas de beber.|Tengo mucha sed.|comida|
+cuenta|n|f|bill / account|Papel con lo que hay que pagar.|¿Nos trae la cuenta, por favor?|comida|
+propina|n|f|tip|Dinero extra que se da por un servicio.|Dejamos un euro de propina.|comida|
+camarero|n|m|waiter|Persona que sirve en un bar o restaurante.|El camarero nos trajo pan.|comida|mesero
+menú del día|n|m|set lunch menu|Comida de precio fijo con varios platos.|El menú del día cuesta doce euros.|comida|
+primer plato|n|m|starter / first course|Plato que se toma al principio.|De primer plato, ensalada.|comida|
+postre|n|m|dessert|Lo que se come al final.|¿Qué hay de postre?|comida|
+reservar|v||to book / to reserve|Pedir que guarden algo para uno.|He reservado mesa para cuatro.|comida|
+pedir|v||to order / to ask for|Solicitar algo en un bar o tienda.|¿Ya habéis pedido?|comida|ordenar
+compartir|v||to share|Usar algo entre varias personas.|¿Compartimos una pizza?|comida|
+supermercado|n|m|supermarket|Tienda grande de comida y productos.|Voy al supermercado un momento.|compras|
+hacer la compra|expr||to do the food shopping|Comprar la comida de la semana.|Hago la compra los sábados.|compras|hacer el súper
+carro|n|m|trolley / cart|Carrito para llevar la compra.|Coge un carro, que compramos mucho.|compras|carrito
+cesta|n|f|basket|Recipiente para llevar cosas.|Solo necesito una cesta.|compras|canasta
+cola|n|f|queue / tail|Fila de personas que esperan.|Hay mucha cola en la caja.|compras|fila
+caja|n|f|checkout / box|Lugar donde se paga; recipiente.|Pague en la caja dos.|compras|
+ticket|n|m|receipt / ticket|Papel que demuestra una compra.|Guarda el ticket por si lo devuelves.|compras|
+devolver|v||to return / to give back|Entregar algo a quien lo tenía antes.|Quiero devolver esta camiseta.|compras|regresar
+cambiar|v||to exchange / to change|Dar una cosa por otra.|¿Puedo cambiarla por una talla más grande?|compras|
+talla|n|f|size (clothes)|Medida de la ropa.|¿Qué talla usas?|compras|
+probador|n|m|fitting room|Lugar para probarse la ropa.|Los probadores están al fondo.|compras|
+rebajas|n|f|sales|Periodo en que las tiendas bajan los precios.|Espero a las rebajas para comprar abrigo.|compras|ofertas
+oferta|n|f|offer / deal|Precio más bajo de lo normal.|Estas fresas están de oferta.|compras|
+barato|adj||cheap|Que cuesta poco dinero.|Este restaurante es barato y bueno.|compras|
+caro|adj||expensive|Que cuesta mucho dinero.|Barcelona es cada vez más cara.|compras|
+gratis|adv||free (of charge)|Sin pagar.|La entrada al museo es gratis los domingos.|compras|
+efectivo|n|m|cash|Dinero en billetes y monedas.|¿Se puede pagar en efectivo?|dinero|
+tarjeta|n|f|card|Tarjeta de plástico para pagar o identificarse.|¿Aceptan tarjeta?|dinero|
+cambio|n|m|change (money) / change|Dinero que se devuelve; transformación.|Quédese con el cambio.|dinero|
+suelto|n|m|loose change|Monedas o billetes pequeños.|¿Tienes suelto para el parking?|dinero|
+billete|n|m|banknote / ticket|Papel moneda; papel para viajar.|Solo tengo un billete de cincuenta.|dinero|boleto
+ahorrar|v||to save (money)|Guardar dinero para el futuro.|Estoy ahorrando para un viaje.|dinero|
+gastar|v||to spend|Usar dinero o energía.|Gasto demasiado en comida a domicilio.|dinero|
+cobrar|v||to charge / to get paid|Pedir dinero por algo; recibir el sueldo.|¿Cuánto te cobran por el corte de pelo?|dinero|
+prestar|v||to lend|Dejar algo a alguien que lo devolverá.|¿Me prestas diez euros?|dinero|
+deber|v||to owe / must|Tener que pagar algo; estar obligado.|Te debo una cerveza.|dinero|
+deuda|n|f|debt|Dinero que se debe.|Por fin he pagado la deuda.|dinero|
+factura|n|f|bill / invoice|Documento con el precio de un servicio.|Ha llegado la factura de la luz.|dinero|recibo
+ingresar|v||to pay in / to be admitted|Meter dinero en el banco; entrar en un hospital.|He ingresado el dinero en tu cuenta.|dinero|depositar
+cajero|n|m|cash machine / cashier|Máquina para sacar dinero; persona que cobra.|¿Hay un cajero por aquí?|dinero|
+presupuesto|n|m|budget / quote|Dinero previsto para algo; precio calculado.|Nos han dado un presupuesto para la reforma.|dinero|
+impuesto|n|m|tax|Dinero que se paga al Estado.|Los impuestos suben cada año.|dinero|
+hacienda|n|f|tax office|Organismo que cobra los impuestos.|Tengo que hacer la declaración para Hacienda.|dinero|
+calle|n|f|street|Vía de una ciudad.|Vivo en una calle muy ruidosa.|ciudad|
+esquina|n|f|corner|Punto donde se juntan dos calles.|Hay una panadería en la esquina.|ciudad|
+semáforo|n|m|traffic light|Luces que regulan el tráfico.|Gira a la derecha en el semáforo.|ciudad|
+acera|n|f|pavement|Parte de la calle para los peatones.|Hay motos aparcadas en la acera.|ciudad|banqueta
+paso de cebra|n|m|zebra crossing|Lugar marcado para cruzar la calle.|Cruza por el paso de cebra.|ciudad|
+cruzar|v||to cross|Pasar de un lado a otro.|Cruzamos la plaza y llegamos.|ciudad|
+girar|v||to turn|Cambiar de dirección.|Gira a la izquierda después del banco.|ciudad|voltear
+todo recto|expr||straight ahead|Sin girar.|Sigue todo recto hasta el mar.|ciudad|derecho
+al lado de|expr||next to|Muy cerca, junto a.|La farmacia está al lado del bar.|ciudad|
+enfrente de|expr||opposite|Delante, al otro lado.|Vivo enfrente del parque.|ciudad|
+alrededor|adv||around|En torno a algo.|Hay muchos bares alrededor de la plaza.|ciudad|
+lejos|adv||far|A mucha distancia.|¿Está lejos la playa?|ciudad|
+cerca|adv||near / close|A poca distancia.|El metro está muy cerca.|ciudad|
+plaza|n|f|square / place|Espacio abierto en una ciudad; sitio.|Quedamos en la plaza a las ocho.|ciudad|
+ayuntamiento|n|m|town hall|Edificio y gobierno de una ciudad.|Tengo que ir al ayuntamiento a empadronarme.|ciudad|alcaldía
+empadronarse|v||to register as resident|Inscribirse como vecino de una ciudad.|Para el médico necesitas empadronarte.|ciudad|
+trámite|n|m|paperwork / procedure|Paso que hay que hacer en un proceso administrativo.|Los trámites me agobian.|ciudad|
+cita previa|n|f|appointment|Hora reservada de antemano.|Sin cita previa no te atienden.|ciudad|
+ventanilla|n|f|service window / counter|Abertura donde atienden al público.|Pregunte en la ventanilla tres.|ciudad|
+rellenar|v||to fill in|Completar un formulario.|Rellene este formulario, por favor.|ciudad|llenar
+firmar|v||to sign|Poner el nombre propio en un papel.|Firme aquí abajo.|ciudad|
+correos|n|m|post office|Servicio de envío de cartas y paquetes.|Voy a correos a recoger un paquete.|ciudad|
+paquete|n|m|parcel / packet|Envío envuelto; conjunto de cosas.|Ha llegado un paquete para ti.|ciudad|
+recoger|v||to pick up / to tidy|Ir a buscar algo; ordenar.|Recojo a los niños a las cinco.|vida diaria|
+tráfico|n|m|traffic|Circulación de vehículos.|A esta hora hay mucho tráfico.|ciudad|
+atasco|n|m|traffic jam|Tráfico parado.|Llegué tarde por un atasco.|ciudad|embotellamiento
+aparcar|v||to park|Dejar un coche en un sitio.|Es imposible aparcar en el centro.|ciudad|estacionar
+coche|n|m|car|Vehículo de cuatro ruedas.|No tengo coche, voy en bici.|transporte|carro
+conducir|v||to drive|Manejar un vehículo.|Conduzco los fines de semana.|transporte|manejar
+carné de conducir|n|m|driving licence|Permiso para conducir.|Me saqué el carné a los dieciocho.|transporte|licencia
+gasolina|n|f|petrol|Combustible para coches.|Tengo que echar gasolina.|transporte|nafta
+autobús|n|m|bus|Vehículo grande de transporte público.|El autobús 24 va a la playa.|transporte|camión
+parada|n|f|stop|Lugar donde para el autobús.|Me bajo en la próxima parada.|transporte|
+andén|n|m|platform|Lugar donde se espera el tren.|El tren sale del andén cuatro.|transporte|
+coger|v||to take / to catch|Tomar un transporte; agarrar.|Cojo el metro cada mañana.|transporte|tomar
+bajarse|v||to get off|Salir de un vehículo.|¿Dónde te bajas?|transporte|
+subirse|v||to get on|Entrar en un vehículo.|Súbete, que te llevo.|transporte|
+transbordo|n|m|change (of train/line)|Cambio de un tren o línea a otro.|Hay que hacer transbordo en Passeig de Gràcia.|transporte|
+retraso|n|m|delay|Tiempo que algo llega tarde.|El vuelo tiene una hora de retraso.|transporte|demora
+perder|v||to miss / to lose|No llegar a tiempo; dejar de tener.|He perdido el tren por un minuto.|transporte|
+abono|n|m|travel pass / season ticket|Billete para muchos viajes.|Me he sacado el abono mensual.|transporte|
+bici|n|f|bike|Bicicleta.|Voy al trabajo en bici.|transporte|
+patinete|n|m|scooter|Vehículo pequeño de dos ruedas y manillar.|Hay patinetes eléctricos por todas partes.|transporte|

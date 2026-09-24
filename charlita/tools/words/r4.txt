@@ -1,0 +1,122 @@
+plantearse|v||to consider|Pensar en hacer algo.|Me estoy planteando cambiar de trabajo.|comunicación|
+población|n|f|population / town|Habitantes; localidad.|Una población de mil habitantes.|sociedad|
+pobreza|n|f|poverty|Falta de dinero.|Luchar contra la pobreza.|sociedad|
+poder adquisitivo|n|m|purchasing power|Capacidad de compra.|Ha bajado el poder adquisitivo.|dinero|
+polémica|n|f|controversy|Discusión con opiniones contrarias.|Hay mucha polémica con el tema.|sociedad|
+portarse bien|expr||to behave well|Comportarse correctamente.|Pórtate bien en casa de la abuela.|carácter|
+postura|n|f|posture / position|Forma de estar; opinión.|Cuida tu postura.|salud|
+práctico|adj||practical|Útil.|Es un bolso muy práctico.|descripción|
+precaución|n|f|caution|Cuidado.|Conduce con precaución.|transporte|
+pregunta trampa|n|f|trick question|Pregunta engañosa.|¡Eso es una pregunta trampa!|comunicación|
+premio|n|m|prize|Recompensa.|Ganó un premio.|cultura|
+prensa|n|f|press|Periódicos y periodistas.|Salió en la prensa.|sociedad|
+preocupación|n|f|worry|Inquietud.|Mi única preocupación eres tú.|emociones|
+preparado|adj||ready / prepared|Listo.|¿Estás preparado?|vida diaria|
+presión|n|f|pressure|Fuerza; tensión.|Trabajo bajo presión.|trabajo|
+prestigio|n|m|prestige|Buena fama.|Una universidad de prestigio.|sociedad|
+prevenir|v||to prevent|Evitar antes.|Más vale prevenir que curar.|salud|
+principiante|n|mf|beginner|Persona que empieza.|Soy principiante en yoga.|estudios|
+prisa|n|f|hurry|Rapidez.|No hay prisa.|vida diaria|
+privado|adj||private|No público.|Es un asunto privado.|sociedad|
+probable|adj||likely|Que puede ocurrir.|Es probable que llueva.|comunicación|
+producto|n|m|product|Cosa producida.|Productos de temporada.|compras|
+profundo|adj||deep|Con mucha profundidad.|El agua es muy profunda.|descripción|
+prohibido|adj||forbidden|No permitido.|Prohibido aparcar.|sociedad|
+propio|adj||own|De uno mismo.|Tengo mi propio negocio.|reserva|
+proteger|v||to protect|Defender de un daño.|Protege tu piel del sol.|salud|
+provocar|v||to cause / to provoke|Causar.|El humo provocó la alarma.|reserva|
+próximamente|adv||coming soon|Dentro de poco.|Próximamente en cines.|cultura|
+prueba|n|f|test / proof|Examen; demostración.|Hice una prueba de nivel.|estudios|
+publicidad|n|f|advertising|Anuncios.|Hay demasiada publicidad.|sociedad|
+puesto|n|m|position / stall|Cargo; tienda pequeña.|Un puesto en el mercado.|trabajo|
+quedarse dormido|expr||to oversleep / to fall asleep|Dormirse sin querer.|Me quedé dormido y llegué tarde.|vida diaria|
+queja|n|f|complaint|Expresión de descontento.|Quiero poner una queja.|compras|
+quemarse|v||to get burnt|Sufrir una quemadura.|Me quemé en la playa.|salud|
+química|n|f|chemistry|Ciencia; atracción entre personas.|Hay química entre ellos.|relaciones|
+rabia|n|f|rage / annoyance|Enfado fuerte.|¡Qué rabia!|emociones|coraje
+rápidamente|adv||quickly|Con rapidez.|Contestó rápidamente.|expresiones|
+rasgo|n|m|feature / trait|Característica.|Un rasgo de su carácter.|carácter|
+razonable|adj||reasonable|Sensato.|Un precio razonable.|comunicación|
+reaccionar|v||to react|Responder a algo.|No supe cómo reaccionar.|emociones|
+rebajado|adj||reduced (price)|Con precio más bajo.|Este abrigo está rebajado.|compras|
+recepción|n|f|reception|Lugar de entrada de un hotel.|Deja la llave en recepción.|viajes|
+rechazar|v||to reject / to turn down|No aceptar.|Rechazó la oferta.|comunicación|
+reclamar|v||to claim / to complain|Pedir algo que se debe.|Reclamé el reembolso.|compras|
+recomendar|v||to recommend|Aconsejar.|¿Qué me recomiendas?|comunicación|
+recompensa|n|f|reward|Premio.|El esfuerzo tiene recompensa.|emociones|
+reembolso|n|m|refund|Devolución de dinero.|Pedí el reembolso.|compras|
+regalar|v||to give (as a gift)|Dar como regalo.|Le regalé un libro.|relaciones|
+regañar|v||to scold|Llamar la atención con enfado.|Mi madre me regañaba mucho.|familia|
+regla|n|f|rule / ruler|Norma; instrumento para medir.|Las reglas del juego.|reserva|
+relajarse|v||to relax|Descansar.|Relájate un poco.|emociones|
+relleno|adj||stuffed / filled|Lleno por dentro.|Pimientos rellenos.|comida|
+remedio|n|m|remedy / choice|Solución.|No hay más remedio.|expresiones|
+renovar|v||to renew|Hacer nuevo otra vez.|Tengo que renovar el pasaporte.|ciudad|
+reparto|n|m|delivery / cast|Distribución; actores.|El reparto llega por la tarde.|compras|
+requisito|n|m|requirement|Condición necesaria.|¿Cuáles son los requisitos?|trabajo|
+resaca|n|f|hangover|Malestar tras beber.|Tengo una resaca terrible.|salud|cruda
+respetar|v||to respect|Tratar con consideración.|Respeta a los demás.|relaciones|
+respeto|n|m|respect|Consideración.|Con todo respeto...|relaciones|
+respirar|v||to breathe|Tomar aire.|Respira hondo.|salud|
+resultado|n|m|result|Consecuencia.|¿Qué resultado tuvo?|trabajo|
+resumen|n|m|summary|Versión corta.|Hazme un resumen.|comunicación|
+retrasar|v||to delay|Hacer más tarde.|Han retrasado el vuelo.|viajes|
+reunirse|v||to meet / to get together|Juntarse.|Nos reunimos los lunes.|trabajo|
+revisar|v||to check / to review|Examinar.|Revisa tu correo.|trabajo|
+riesgo|n|m|risk|Posibilidad de daño.|No quiero correr riesgos.|reserva|
+ritmo|n|m|rhythm / pace|Velocidad; cadencia.|A tu ritmo.|estudios|
+robar|v||to steal / to rob|Quitar lo ajeno.|Me robaron la bici.|sociedad|
+ruina|n|f|ruin|Destrucción; pérdida de dinero.|Este piso es una ruina.|reserva|
+sacar una foto|expr||to take a photo|Hacer una fotografía.|¿Nos sacas una foto?|tiempo libre|tomar una foto
+salario|n|m|salary|Sueldo.|El salario mínimo ha subido.|trabajo|
+saludable|adj||healthy|Bueno para la salud.|Un estilo de vida saludable.|salud|
+saludar|v||to greet|Decir hola.|Saluda a tu madre de mi parte.|relaciones|
+sano y salvo|expr||safe and sound|Sin daño.|Llegamos sanos y salvos.|expresiones|
+satisfecho|adj||satisfied / full|Contento; lleno.|Estoy satisfecho con el resultado.|emociones|
+secreto|n|m|secret|Algo oculto.|¿Me guardas un secreto?|relaciones|
+sencillo|adj||simple|Fácil.|Es muy sencillo.|descripción|
+sensación|n|f|feeling / sensation|Impresión.|Tengo la sensación de que va a llover.|emociones|
+sentido|n|m|sense / meaning / direction|Significado; dirección.|No tiene sentido.|comunicación|
+señal|n|f|sign / signal|Indicación.|No hay señal de móvil.|tecnología|
+serenidad|n|f|calm|Tranquilidad.|Actúa con serenidad.|emociones|
+servicio|n|m|service / toilet|Atención; aseo.|¿Dónde está el servicio?|ciudad|baño
+significado|n|m|meaning|Sentido.|¿Cuál es el significado?|comunicación|
+sincero|adj||sincere|Honesto.|Seré sincero.|carácter|
+sobrevivir|v||to survive|Seguir vivo.|Sobrevivimos a la mudanza.|expresiones|
+soledad|n|f|loneliness / solitude|Estado de estar solo.|Disfruto de la soledad.|emociones|
+solicitar|v||to apply for|Pedir formalmente.|Solicité una beca.|trabajo|
+sonido|n|m|sound|Lo que se oye.|Me gusta el sonido del mar.|naturaleza|
+soportable|adj||bearable|Que se puede aguantar.|El calor es soportable.|emociones|
+sorprender|v||to surprise|Causar sorpresa.|Me sorprendió mucho.|emociones|
+sospechoso|adj||suspicious|Que despierta sospechas.|Un paquete sospechoso.|sociedad|
+subtitulado|adj||subtitled|Con subtítulos.|Prefiero la versión subtitulada.|cultura|
+suceder|v||to happen|Ocurrir.|¿Qué sucedió?|sociedad|
+sucursal|n|f|branch (office)|Oficina de una empresa.|La sucursal del banco está cerrada.|dinero|
+sufrir|v||to suffer|Padecer.|Sufro con el calor.|emociones|
+sugerencia|n|f|suggestion|Propuesta.|¿Alguna sugerencia?|comunicación|
+sujetar|v||to hold|Agarrar.|Sujétame esto, porfa.|vida diaria|
+tamaño|n|m|size|Dimensión.|¿De qué tamaño lo quieres?|descripción|
+tardío|adj||late|Que llega tarde.|Una primavera tardía.|tiempo|
+temer|v||to fear|Tener miedo.|Me temo que no.|emociones|
+temporada|n|f|season|Periodo del año.|Fruta de temporada.|tiempo|
+tenso|adj||tense|Con tensión.|El ambiente estaba tenso.|emociones|
+ternura|n|f|tenderness|Cariño dulce.|Me mira con ternura.|emociones|
+tesoro|n|m|treasure|Cosa muy valiosa.|Eres un tesoro.|relaciones|
+tirar|v||to throw (away) / to pull|Lanzar; echar a la basura.|No tires la comida.|casa|
+tópico|n|m|cliché|Idea muy repetida.|Es un tópico, pero es verdad.|comunicación|
+tranquilidad|n|f|calm / peace|Estado sin nervios.|Con tranquilidad.|emociones|
+trato|n|m|deal / treatment|Acuerdo; forma de tratar.|¡Trato hecho!|relaciones|
+travieso|adj||naughty|Que hace travesuras.|Un gato muy travieso.|carácter|
+tristeza|n|f|sadness|Pena.|Me da tristeza.|emociones|
+tropezar|v||to trip|Dar con el pie en algo.|Tropecé con un escalón.|vida diaria|
+turno|n|m|turn / shift|Orden; horario de trabajo.|Trabajo en turno de noche.|trabajo|
+ubicación|n|f|location|Lugar donde está algo.|Mándame tu ubicación.|tecnología|
+valorar|v||to value / to assess|Apreciar; evaluar.|Valoro mucho tu ayuda.|emociones|
+ventaja|n|f|advantage|Beneficio.|Tiene muchas ventajas.|comunicación|
+desventaja|n|f|disadvantage|Inconveniente.|La única desventaja es el precio.|comunicación|
+vergonzoso|adj||shameful / shy|Que da vergüenza; tímido.|Es un poco vergonzoso.|carácter|
+viaje de negocios|n|m|business trip|Viaje por trabajo.|Estoy de viaje de negocios.|trabajo|
+vida|n|f|life|Existencia.|¡Así es la vida!|vida diaria|
+vistas|n|f|view|Lo que se ve desde un lugar.|Un piso con vistas al mar.|casa|
+volumen|n|m|volume|Intensidad del sonido; espacio.|Baja el volumen.|tecnología|
+voluntario|n|m|volunteer|Persona que ayuda sin cobrar.|Soy voluntario en una ONG.|sociedad|

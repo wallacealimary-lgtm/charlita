@@ -1,0 +1,119 @@
+sin embargo|expr||however|Expresión que introduce una idea contraria.|Es caro; sin embargo, merece la pena.|conectores|
+aunque|conj||although / even if|Palabra que introduce una dificultad que no impide algo.|Aunque llueva, iremos.|conectores|
+a pesar de|expr||despite|Sin que algo lo impida.|A pesar del frío, salimos.|conectores|
+además|adv||besides / also|Por otra parte, también.|Es barato y, además, está cerca.|conectores|
+en cambio|expr||on the other hand|Por el contrario.|Yo soy de mar; en cambio, ella es de montaña.|conectores|
+por eso|expr||that's why|Por esa razón.|Estaba cansado; por eso me fui pronto.|conectores|
+así que|expr||so|Por lo tanto.|No había pan, así que compré.|conectores|
+por lo tanto|expr||therefore|Como consecuencia.|Llueve; por lo tanto, se cancela el partido.|conectores|
+ya que|expr||since / as|Porque.|Ya que estás aquí, ayúdame.|conectores|
+como|conj||as / since / like|Porque (al principio de la frase); de la forma que.|Como no venías, me fui.|conectores|
+en cuanto|expr||as soon as|Justo cuando.|En cuanto llegue, te llamo.|conectores|
+mientras|conj||while|Durante el tiempo en que.|Cocino mientras escucho la radio.|conectores|
+en vez de|expr||instead of|En lugar de.|En vez de quejarte, haz algo.|conectores|
+por un lado|expr||on the one hand|Expresión para presentar un aspecto.|Por un lado, me gusta; por otro, es caro.|conectores|
+en realidad|expr||actually / in fact|Realmente.|En realidad, no me apetece salir.|conectores|
+de hecho|expr||in fact|Expresión para confirmar algo.|De hecho, ya lo sabía.|conectores|
+al final|expr||in the end|Después de todo.|Al final no fuimos.|conectores|
+en general|expr||in general|De forma general.|En general, estoy contento.|conectores|
+sobre todo|expr||above all / especially|Especialmente.|Me gusta la fruta, sobre todo las fresas.|conectores|
+por ejemplo|expr||for example|Para dar un ejemplo.|Hay mucho que hacer, por ejemplo, ir al museo.|conectores|
+según|prep||according to|De acuerdo con lo que dice alguien.|Según el tiempo, mañana llueve.|conectores|
+incluso|adv||even|Hasta, también.|Incluso mi abuela usa WhatsApp.|conectores|
+apenas|adv||hardly / barely|Casi no.|Apenas dormí anoche.|conectores|
+bastante|adv||quite / enough|Suficiente; más de lo normal.|El examen fue bastante difícil.|conectores|
+demasiado|adv||too / too much|Más de lo necesario.|Hablas demasiado rápido.|conectores|
+casi|adv||almost|Por poco.|Casi me caigo.|conectores|
+quizás|adv||maybe / perhaps|Posiblemente.|Quizás vaya mañana.|conectores|tal vez
+a lo mejor|expr||maybe|Posiblemente (coloquial).|A lo mejor llueve luego.|conectores|
+seguramente|adv||probably|Con mucha probabilidad.|Seguramente llegue tarde.|conectores|
+sin duda|expr||without a doubt|Seguro.|Sin duda, es el mejor café del barrio.|conectores|
+por supuesto|expr||of course|Claro que sí.|¡Por supuesto que te ayudo!|conectores|
+claro|expr||of course / sure|Expresión para decir que sí.|—¿Me ayudas? —Claro.|conectores|
+aprobar|v||to pass (an exam) / to approve|Superar un examen; dar por bueno.|¡He aprobado el examen!|estudios|
+suspender|v||to fail (an exam)|No superar un examen.|Suspendí el carné la primera vez.|estudios|reprobar
+examen|n|m|exam|Prueba para evaluar conocimientos.|Tengo examen el lunes.|estudios|
+nota|n|f|mark / grade; note|Resultado de un examen; apunte.|Saqué buena nota.|estudios|calificación
+apuntes|n|m|notes|Lo que se escribe en clase.|¿Me dejas tus apuntes?|estudios|
+repasar|v||to revise / to go over|Volver a estudiar algo.|Voy a repasar los verbos.|estudios|
+memorizar|v||to memorise|Aprender de memoria.|No hace falta memorizarlo todo.|estudios|
+carrera|n|f|degree / race / career|Estudios universitarios; competición de velocidad.|Estudié la carrera de Arquitectura.|estudios|
+máster|n|m|master's degree|Estudios después de la carrera.|Estoy haciendo un máster.|estudios|maestría
+beca|n|f|scholarship / grant|Ayuda económica para estudiar.|Me han dado una beca.|estudios|
+matricularse|v||to enrol|Inscribirse en un curso.|Me he matriculado en un curso de catalán.|estudios|inscribirse
+asignatura|n|f|subject|Materia que se estudia.|Mi asignatura favorita era Historia.|estudios|materia
+cole|n|m|school (colloquial)|Colegio.|Llevo a los niños al cole.|estudios|
+instituto|n|m|secondary school|Centro de estudios para adolescentes.|Nos conocimos en el instituto.|estudios|prepa
+profe|n|mf|teacher (colloquial)|Profesor.|Mi profe de español es de Madrid.|estudios|
+aprender|v||to learn|Adquirir un conocimiento.|Aprendo algo nuevo cada día.|estudios|
+enseñar|v||to teach / to show|Transmitir conocimientos; mostrar.|¿Me enseñas a hacer paella?|estudios|
+saber|v||to know (facts / how to)|Tener conocimiento de algo.|¿Sabes nadar?|estudios|
+conocer|v||to know (people, places) / to meet|Tener trato con alguien; visitar un lugar.|¿Conoces Sevilla?|estudios|
+darse bien|expr||to be good at|Tener habilidad para algo.|Se me dan bien los idiomas.|estudios|
+costar|v||to be hard / to cost|Ser difícil; tener un precio.|Me cuesta mucho el subjuntivo.|estudios|
+fácil|adj||easy|Que no cuesta esfuerzo.|Es más fácil de lo que parece.|estudios|
+difícil|adj||difficult|Que cuesta esfuerzo.|El condicional no es tan difícil.|estudios|
+libro|n|m|book|Conjunto de hojas escritas.|Estoy leyendo un libro buenísimo.|cultura|
+novela|n|f|novel|Obra literaria larga.|Me encantan las novelas de misterio.|cultura|
+cuento|n|m|story / tale|Narración corta.|Mi abuela me contaba cuentos.|cultura|
+personaje|n|m|character|Persona de una historia.|El personaje principal es un zorro.|cultura|
+película|n|f|film|Obra de cine.|¿Vemos una película?|cultura|
+serie|n|f|series|Obra de televisión en capítulos.|Estoy enganchado a una serie.|cultura|
+capítulo|n|m|episode / chapter|Parte de una serie o de un libro.|Solo un capítulo más.|cultura|episodio
+engancharse|v||to get hooked|Aficionarse mucho a algo.|Me he enganchado a este podcast.|cultura|
+estreno|n|m|premiere / release|Primera presentación de algo.|El estreno es el viernes.|cultura|
+subtítulos|n|m|subtitles|Texto que aparece en pantalla.|La veo con subtítulos en español.|cultura|
+entrada|n|f|ticket / entrance|Billete para un espectáculo; lugar para entrar.|Ya tengo las entradas del concierto.|cultura|boleto
+concierto|n|m|concert|Actuación musical.|Fuimos a un concierto en el Palau.|cultura|
+exposición|n|f|exhibition|Muestra de obras de arte.|Hay una exposición de Miró.|cultura|
+museo|n|m|museum|Lugar donde se guardan y muestran obras.|El museo abre a las diez.|cultura|
+obra|n|f|work / play / building works|Resultado de un trabajo; pieza de teatro; construcción.|Han empezado las obras en mi calle.|cultura|
+cuadro|n|m|painting / square|Pintura enmarcada; figura de cuatro lados.|Este cuadro es de Picasso.|cultura|
+dibujar|v||to draw|Hacer líneas y figuras con un lápiz.|Me relaja dibujar.|cultura|
+pintar|v||to paint|Dar color con pintura.|Pinto con acuarelas.|cultura|
+fotografía|n|f|photograph / photography|Imagen hecha con una cámara.|Me gusta la fotografía de calle.|cultura|
+canción|n|f|song|Composición con música y letra.|Esta canción me recuerda a ti.|cultura|
+letra|n|f|lyrics / letter / handwriting|Texto de una canción; signo del alfabeto.|No entiendo la letra de la canción.|cultura|
+cantar|v||to sing|Hacer música con la voz.|Canto en la ducha.|cultura|
+bailar|v||to dance|Mover el cuerpo al ritmo de la música.|¿Bailamos?|cultura|
+tocar|v||to play (instrument) / to touch / to be one's turn|Hacer sonar un instrumento; poner la mano; corresponder.|Toco la guitarra un poco. Te toca a ti.|cultura|
+afición|n|f|hobby|Actividad que gusta hacer.|Mi afición es la cerámica.|tiempo libre|pasatiempo
+aficionado|n|m|fan / amateur|Persona que disfruta de algo.|Soy aficionado al fútbol.|tiempo libre|
+partido|n|m|match / party (political)|Competición deportiva; grupo político.|¿Vemos el partido en el bar?|deporte|
+equipo|n|m|team / equipment|Grupo de personas; material.|¿De qué equipo eres?|deporte|
+ganar|v||to win / to earn|Conseguir la victoria; recibir dinero.|¡Hemos ganado!|deporte|
+empatar|v||to draw (tie)|Terminar con el mismo resultado.|Empatamos a uno.|deporte|
+entrenador|n|m|coach|Persona que prepara a deportistas.|El entrenador está contento.|deporte|
+nadar|v||to swim|Moverse en el agua.|Nado en el mar todas las mañanas.|deporte|
+correr|v||to run|Ir muy rápido a pie.|Corro por la playa.|deporte|
+pasear|v||to go for a walk|Andar por placer.|Paseamos al perro por el parque.|tiempo libre|
+paseo|n|m|walk / stroll|Acción de pasear.|Vamos a dar un paseo.|tiempo libre|
+dar una vuelta|expr||to go for a walk / a spin|Pasear un rato.|¿Damos una vuelta por el barrio?|tiempo libre|
+aburrirse|v||to get bored|Sentir aburrimiento.|Me aburro en casa.|emociones|
+aburrido|adj||bored / boring|Que se aburre; que no es interesante.|La película era aburrida.|emociones|
+divertido|adj||fun|Que hace pasarlo bien.|Fue una noche muy divertida.|emociones|
+pasarlo bien|expr||to have a good time|Divertirse.|¡Que lo pases bien!|emociones|pasarla bien
+pasarlo mal|expr||to have a bad time|Sufrir o no divertirse.|Lo pasé fatal en el avión.|emociones|
+fatal|adv||awful(ly)|Muy mal.|Hoy he dormido fatal.|expresiones|
+genial|adj||great|Muy bueno.|¡Genial, nos vemos allí!|expresiones|
+estupendo|adj||wonderful|Muy bueno.|Hace un día estupendo.|expresiones|
+increíble|adj||incredible|Difícil de creer; muy bueno.|La vista es increíble.|expresiones|
+precioso|adj||beautiful / lovely|Muy bonito.|Tienes un piso precioso.|expresiones|
+feo|adj||ugly|Que no es bonito.|El edificio es un poco feo.|expresiones|
+raro|adj||strange / rare|Poco común.|Qué raro, no contesta.|expresiones|
+extraño|adj||strange|Raro, poco habitual.|Tengo una sensación extraña.|expresiones|
+normal|adj||normal|Habitual, corriente.|Es normal estar nervioso.|expresiones|
+típico|adj||typical|Característico de un lugar.|La paella es típica de Valencia.|expresiones|
+famoso|adj||famous|Conocido por mucha gente.|Es un bar muy famoso.|expresiones|
+peligroso|adj||dangerous|Que puede hacer daño.|Esa carretera es peligrosa.|expresiones|
+seguro|adj||safe / sure|Sin peligro; convencido.|¿Estás seguro?|expresiones|
+útil|adj||useful|Que sirve para algo.|Esta app es muy útil.|expresiones|
+inútil|adj||useless|Que no sirve.|Es inútil discutir con él.|expresiones|
+importante|adj||important|Que tiene mucho valor.|Es importante descansar.|expresiones|
+necesario|adj||necessary|Que hace falta.|No es necesario reservar.|expresiones|
+posible|adj||possible|Que puede pasar.|¿Es posible cambiar la fecha?|expresiones|
+imposible|adj||impossible|Que no puede pasar.|Es imposible aparcar aquí.|expresiones|
+lleno|adj||full|Que no tiene espacio libre.|El metro va lleno.|expresiones|
+vacío|adj||empty|Que no tiene nada dentro.|La nevera está vacía.|expresiones|
+nevera|n|f|fridge|Aparato que mantiene fríos los alimentos.|Hay cerveza en la nevera.|casa|refrigerador
+congelador|n|m|freezer|Parte muy fría de la nevera.|Hay helado en el congelador.|casa|

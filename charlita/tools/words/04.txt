@@ -1,0 +1,121 @@
+ropa|n|f|clothes|Prendas para vestirse.|Tengo que lavar la ropa.|ropa|
+abrigo|n|m|coat|Prenda para el frío.|Coge el abrigo, que refresca.|ropa|
+chaqueta|n|f|jacket|Prenda corta con mangas que se lleva encima.|Me he dejado la chaqueta en el bar.|ropa|chamarra
+jersey|n|m|jumper / sweater|Prenda de punto para el frío.|Este jersey pica un poco.|ropa|suéter
+camiseta|n|f|t-shirt|Prenda ligera de manga corta.|Me pongo una camiseta y ya.|ropa|playera
+vaqueros|n|m|jeans|Pantalones de tela azul resistente.|Siempre llevo vaqueros.|ropa|jeans
+bañador|n|m|swimsuit|Ropa para bañarse.|No te olvides el bañador.|ropa|traje de baño
+zapatillas|n|f|trainers / slippers|Calzado deportivo o de casa.|Me he comprado zapatillas para correr.|ropa|tenis
+calcetines|n|m|socks|Prenda que cubre el pie.|Tengo un calcetín de cada color.|ropa|medias
+gafas|n|f|glasses|Lentes para ver mejor.|¿Has visto mis gafas de sol?|ropa|lentes
+bolso|n|m|handbag|Bolsa pequeña para llevar cosas.|Lo llevo en el bolso.|ropa|cartera
+mochila|n|f|backpack|Bolsa que se lleva en la espalda.|Meto el portátil en la mochila.|ropa|
+cartera|n|f|wallet|Objeto para llevar dinero y tarjetas.|He perdido la cartera.|ropa|billetera
+llaves|n|f|keys|Objetos para abrir cerraduras.|¿Dónde he dejado las llaves?|casa|
+quedar|v||to meet up / to arrange; to be left|Acordar una cita; sobrar.|¿Quedamos mañana para tomar algo?|relaciones|
+quedar con|expr||to meet up with|Tener una cita con alguien.|He quedado con Laura a las siete.|relaciones|
+tomar algo|expr||to have a drink|Ir a un bar a beber algo.|¿Vamos a tomar algo?|tiempo libre|
+salir de fiesta|expr||to go out partying|Ir a bares o discotecas.|Este finde salimos de fiesta.|tiempo libre|salir de parranda
+finde|n|m|weekend (colloquial)|Fin de semana.|¿Qué haces este finde?|tiempo libre|
+plan|n|m|plan|Idea de lo que se va a hacer.|¿Tienes plan para esta noche?|tiempo libre|
+apetecer|v||to fancy / to feel like|Tener ganas de algo.|¿Te apetece un helado?|emociones|antojarse
+invitar|v||to invite / to treat|Pedir a alguien que venga; pagar por otro.|Te invito a un café.|relaciones|
+cumpleaños|n|m|birthday|Día en que se cumplen años.|¡Feliz cumpleaños!|relaciones|
+regalo|n|m|present / gift|Cosa que se da sin pedir nada.|Gracias por el regalo.|relaciones|
+celebrar|v||to celebrate|Hacer una fiesta por algo.|Vamos a celebrar tu nuevo trabajo.|relaciones|
+brindar|v||to make a toast|Levantar las copas para celebrar.|¡Brindemos por los novios!|relaciones|
+boda|n|f|wedding|Ceremonia en la que dos personas se casan.|Mi prima se casa; la boda es en junio.|relaciones|
+pareja|n|f|partner / couple|Persona con quien se tiene una relación; dos personas.|¿Vienes con tu pareja?|relaciones|
+novio|n|m|boyfriend / groom|Persona con quien se tiene una relación amorosa.|Su novio es de Valencia.|relaciones|
+amistad|n|f|friendship|Relación de afecto entre amigos.|Nuestra amistad dura ya veinte años.|relaciones|
+colega|n|mf|mate / colleague|Amigo; compañero de profesión.|Voy con unos colegas al fútbol.|relaciones|cuate
+conocido|n|m|acquaintance|Persona a la que se conoce poco.|No es un amigo, es un conocido.|relaciones|
+llevarse bien|expr||to get on well|Tener buena relación.|Me llevo muy bien con mi hermana.|relaciones|
+caer bien|expr||to like (a person)|Resultar agradable alguien.|Tu amigo me cae muy bien.|relaciones|
+caer mal|expr||to dislike (a person)|Resultar desagradable alguien.|No sé por qué, pero me cae mal.|relaciones|
+confiar|v||to trust|Tener fe en alguien.|Confío en ti.|relaciones|
+discutir|v||to argue / to discuss|Hablar con enfado; debatir.|Discutimos por tonterías.|relaciones|pelear
+pelearse|v||to fight / to fall out|Discutir o enfrentarse con alguien.|Se pelearon y ya no se hablan.|relaciones|
+reconciliarse|v||to make up|Volver a llevarse bien.|Al final se reconciliaron.|relaciones|
+perdonar|v||to forgive|Olvidar una ofensa.|Perdona, no te había visto.|relaciones|
+pedir perdón|expr||to apologise|Decir que uno siente algo.|Te pido perdón por lo de ayer.|relaciones|disculparse
+disculpa|n|f|apology|Palabras para pedir perdón.|Acepto tus disculpas.|relaciones|
+agradecer|v||to thank / to be grateful|Dar las gracias.|Te agradezco mucho la ayuda.|relaciones|
+echar una mano|expr||to lend a hand|Ayudar a alguien.|¿Me echas una mano con la mudanza?|relaciones|dar una mano
+apoyar|v||to support|Ayudar o animar a alguien.|Mi familia siempre me apoya.|relaciones|
+animar|v||to cheer up / to encourage|Dar ánimo o alegría.|Mis amigos me animaron a seguir.|relaciones|
+ánimo|n|m|spirit / encouragement|Energía y ganas; palabras de apoyo.|¡Ánimo, que tú puedes!|emociones|
+consejo|n|m|piece of advice|Opinión para ayudar a decidir.|Te doy un consejo: descansa.|relaciones|
+aconsejar|v||to advise|Dar un consejo.|Te aconsejo que vayas al médico.|relaciones|
+opinar|v||to think / to give an opinion|Tener o decir una opinión.|¿Tú qué opinas?|comunicación|
+estar de acuerdo|expr||to agree|Tener la misma opinión.|Estoy de acuerdo contigo.|comunicación|
+tener razón|expr||to be right|Decir algo verdadero.|Tienes toda la razón.|comunicación|
+equivocarse|v||to be wrong / to make a mistake|Hacer o decir algo erróneo.|Perdona, me he equivocado de número.|comunicación|
+error|n|m|mistake|Acción o idea equivocada.|Todos cometemos errores.|comunicación|
+pregunta|n|f|question|Frase para pedir información.|¿Puedo hacerte una pregunta?|comunicación|
+respuesta|n|f|answer|Lo que se dice a una pregunta.|No sé la respuesta.|comunicación|
+contestar|v||to answer / to reply|Responder a algo.|No me contesta al teléfono.|comunicación|
+avisar|v||to let know / to warn|Informar de algo antes.|Avísame cuando llegues.|comunicación|
+mensaje|n|m|message|Comunicación escrita o hablada.|Te he mandado un mensaje.|comunicación|
+mandar|v||to send / to order|Enviar; dar órdenes.|Mándame la ubicación.|comunicación|
+charlar|v||to chat|Hablar de forma relajada.|Charlamos un rato en la terraza.|comunicación|platicar
+cotillear|v||to gossip|Hablar de la vida de otros.|Le encanta cotillear con las vecinas.|comunicación|chismear
+cotilla|n|mf|gossip (person)|Persona a la que le gusta cotillear.|No se lo digas, que es muy cotilla.|comunicación|chismoso
+bromear|v||to joke|Decir cosas en broma.|No te enfades, estaba bromeando.|comunicación|
+broma|n|f|joke / prank|Cosa que se dice o hace para reír.|Era una broma.|comunicación|
+chiste|n|m|joke|Historia corta y graciosa.|Cuéntame un chiste.|comunicación|
+gracioso|adj||funny|Que hace reír.|Tu perro es muy gracioso.|comunicación|chistoso
+tener gracia|expr||to be funny|Hacer reír.|Eso no tiene gracia.|comunicación|
+reírse|v||to laugh|Mostrar alegría con la voz.|Nos reímos muchísimo.|emociones|
+sonreír|v||to smile|Hacer un gesto de alegría con la boca.|Sonríe, que te hago una foto.|emociones|
+llorar|v||to cry|Echar lágrimas.|Lloré con el final de la película.|emociones|
+gritar|v||to shout|Hablar muy alto.|No grites, que te oigo.|comunicación|
+susurrar|v||to whisper|Hablar muy bajo.|Me lo susurró al oído.|comunicación|
+explicar|v||to explain|Hacer que algo se entienda.|¿Me lo explicas otra vez?|comunicación|
+repetir|v||to repeat|Volver a decir o hacer.|¿Me lo repites, por favor?|comunicación|
+despacio|adv||slowly|Con poca velocidad.|Habla más despacio, porfa.|comunicación|
+en voz alta|expr||out loud|Con voz que se oye.|Lee el texto en voz alta.|comunicación|
+significar|v||to mean|Tener un sentido.|¿Qué significa esta palabra?|comunicación|
+entender|v||to understand|Comprender algo.|No te he entendido.|comunicación|
+malentendido|n|m|misunderstanding|Error al entender algo.|Fue un malentendido.|comunicación|
+acento|n|m|accent|Forma de pronunciar de una región.|Tienes un acento muy bonito.|comunicación|
+idioma|n|m|language|Lengua de un pueblo o país.|¿Cuántos idiomas hablas?|comunicación|
+lengua|n|f|tongue / language|Órgano de la boca; idioma.|El catalán es mi segunda lengua.|comunicación|
+vocabulario|n|m|vocabulary|Conjunto de palabras.|Necesito ampliar mi vocabulario.|comunicación|
+pronunciar|v||to pronounce|Decir los sonidos de una palabra.|No sé pronunciar esta palabra.|comunicación|
+traducir|v||to translate|Pasar de un idioma a otro.|¿Me traduces esto?|comunicación|
+por cierto|expr||by the way|Expresión para añadir algo.|Por cierto, ¿qué tal tu madre?|expresiones|
+o sea|expr||I mean / so|Expresión para explicar mejor algo.|O sea, que no vienes.|expresiones|
+es que|expr||it's just that|Expresión para justificar algo.|Es que no tengo tiempo.|expresiones|
+a ver|expr||let's see|Expresión para pensar o prestar atención.|A ver, déjame pensar.|expresiones|
+pues|expr||well / so|Palabra para empezar a responder o continuar.|Pues no sé, la verdad.|expresiones|
+bueno|expr||well / okay|Palabra para empezar, aceptar o cambiar de tema.|Bueno, me voy ya.|expresiones|
+vale|expr||okay|Palabra para aceptar algo.|—¿Quedamos a las ocho? —Vale.|expresiones|ok
+venga|expr||come on / okay then|Expresión para animar o despedirse.|¡Venga, vamos!|expresiones|ándale
+anda|expr||wow / come on|Expresión de sorpresa o para animar.|¡Anda! ¿Tú por aquí?|expresiones|
+vaya|expr||wow / oh dear|Expresión de sorpresa o pena.|Vaya, qué mala suerte.|expresiones|
+qué va|expr||no way / not at all|Expresión para negar con fuerza.|—¿Estás cansado? —¡Qué va!|expresiones|
+ni idea|expr||no idea|No saber nada de algo.|Ni idea de dónde está.|expresiones|
+da igual|expr||it doesn't matter|No importa.|Da igual, lo hacemos mañana.|expresiones|
+me da igual|expr||I don't mind|No me importa.|Me da igual ir al cine o al teatro.|expresiones|
+menos mal|expr||thank goodness|Expresión de alivio.|Menos mal que has llegado.|expresiones|
+qué pena|expr||what a shame|Expresión de tristeza por algo.|¡Qué pena que no puedas venir!|expresiones|qué lástima
+qué rollo|expr||what a drag|Expresión para algo aburrido.|Tengo que hacer la declaración. ¡Qué rollo!|expresiones|qué flojera
+guay|adj||cool|Muy bueno, estupendo (coloquial).|¡Qué guay tu camiseta!|expresiones|chévere
+flipar|v||to be amazed (colloquial)|Sorprenderse mucho.|Flipé con el concierto.|expresiones|
+mola|expr||it's cool (colloquial)|Gusta mucho.|Me mola tu piso.|expresiones|
+estar de buen humor|expr||to be in a good mood|Sentirse alegre.|Hoy estás de buen humor.|emociones|
+estar de mal humor|expr||to be in a bad mood|Sentirse enfadado o molesto.|No le hables, está de mal humor.|emociones|
+tener prisa|expr||to be in a hurry|Necesitar hacer algo rápido.|Perdona, tengo prisa.|vida diaria|estar apurado
+llegar tarde|expr||to be late|Llegar después de la hora.|Siempre llego tarde.|vida diaria|
+a tiempo|expr||on time|En el momento adecuado.|Llegamos a tiempo al tren.|vida diaria|
+de repente|expr||suddenly|De forma inesperada.|De repente se fue la luz.|vida diaria|
+de momento|expr||for now|Por ahora.|De momento, todo bien.|vida diaria|
+por fin|expr||at last|Después de mucho tiempo.|¡Por fin es viernes!|vida diaria|
+todavía|adv||still / yet|Hasta ahora.|Todavía no he comido.|vida diaria|aún
+ya|adv||already / now|En este momento; antes de lo esperado.|Ya he terminado.|vida diaria|
+enseguida|adv||right away|Muy pronto.|Enseguida vuelvo.|vida diaria|ahorita
+a menudo|expr||often|Muchas veces.|Voy a menudo a la playa.|vida diaria|
+a veces|expr||sometimes|Algunas veces.|A veces me cuesta entender.|vida diaria|
+de vez en cuando|expr||from time to time|Algunas veces, sin regularidad.|De vez en cuando voy al cine.|vida diaria|
+casi nunca|expr||hardly ever|Muy pocas veces.|Casi nunca veo la tele.|vida diaria|

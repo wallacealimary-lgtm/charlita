@@ -1,0 +1,112 @@
+familia|n|f|family|Grupo de personas unidas por parentesco.|Mi familia es de Escocia.|familia|
+padres|n|m|parents|Padre y madre.|Mis padres vienen a verme.|familia|papás
+hermano|n|m|brother|Hijo de los mismos padres.|Tengo un hermano pequeño.|familia|
+primo|n|m|cousin|Hijo de un tío.|Mis primos viven en el sur.|familia|
+tío|n|m|uncle; mate (colloquial)|Hermano del padre o de la madre; amigo.|Mi tío es pescador. ¡Tío, qué fuerte!|familia|
+sobrino|n|m|nephew|Hijo de un hermano.|Mi sobrino cumple cinco años.|familia|
+suegro|n|m|father-in-law|Padre de la pareja.|Mi suegra cocina muy bien.|familia|
+cuñado|n|m|brother-in-law|Hermano de la pareja.|Mi cuñado es muy gracioso.|familia|
+nieto|n|m|grandson|Hijo de un hijo.|La abuela adora a sus nietos.|familia|
+abuelo|n|m|grandfather|Padre del padre o de la madre.|Mi abuelo era carpintero.|familia|
+bebé|n|mf|baby|Niño muy pequeño.|El bebé duerme por fin.|familia|
+embarazada|adj||pregnant|Que espera un bebé.|Mi hermana está embarazada.|familia|
+criar|v||to raise / to bring up|Cuidar y educar a un niño.|Me criaron mis abuelos.|familia|
+crecer|v||to grow (up)|Hacerse mayor.|Crecí en un pueblo pequeño.|familia|
+casarse|v||to get married|Unirse en matrimonio.|Se casaron en la playa.|familia|
+separarse|v||to separate|Dejar de vivir juntos una pareja.|Mis padres se separaron.|familia|
+soltero|adj||single|Que no está casado.|Estoy soltero y feliz.|familia|
+jubilado|adj||retired|Que ya no trabaja por la edad.|Mi madre está jubilada.|familia|
+pueblo|n|m|village / hometown / people|Población pequeña; conjunto de personas.|En verano voy al pueblo.|ciudad|
+ciudad|n|f|city|Población grande.|Barcelona es una ciudad preciosa.|ciudad|
+capital|n|f|capital|Ciudad principal de un país.|Madrid es la capital de España.|ciudad|
+país|n|m|country|Territorio con gobierno propio.|¿De qué país eres?|sociedad|
+mundo|n|m|world|Conjunto de todo lo que existe.|Quiero viajar por el mundo.|sociedad|
+gente|n|f|people|Conjunto de personas.|Hay mucha gente en la playa.|sociedad|
+sociedad|n|f|society|Conjunto de personas que conviven.|La sociedad cambia rápido.|sociedad|
+gobierno|n|m|government|Grupo que dirige un país.|El gobierno ha aprobado una ley.|sociedad|
+ley|n|f|law|Norma obligatoria.|La ley prohíbe fumar en bares.|sociedad|
+derecho|n|m|right / law (field)|Lo que alguien puede exigir; ciencia de las leyes.|Tienes derecho a quejarte.|sociedad|
+elecciones|n|f|elections|Votación para elegir representantes.|Las elecciones son en mayo.|sociedad|
+votar|v||to vote|Elegir con un voto.|¿Vas a votar?|sociedad|
+noticia|n|f|piece of news|Información sobre algo reciente.|¿Has oído la noticia?|sociedad|
+periódico|n|m|newspaper|Publicación diaria de noticias.|Leo el periódico en el móvil.|sociedad|diario
+titular|n|m|headline|Título de una noticia.|El titular es muy exagerado.|sociedad|
+huelga|n|f|strike|Paro del trabajo como protesta.|Mañana hay huelga de metro.|sociedad|paro
+manifestación|n|f|demonstration|Reunión pública de protesta.|Hubo una manifestación en el centro.|sociedad|marcha
+protesta|n|f|protest|Expresión pública de desacuerdo.|Los vecinos organizan una protesta.|sociedad|
+turismo|n|m|tourism|Actividad de viajar por placer.|El turismo es clave para la ciudad.|sociedad|
+vivienda|n|f|housing|Lugar para vivir.|El precio de la vivienda sube sin parar.|sociedad|
+precio|n|m|price|Dinero que cuesta algo.|Los precios han subido mucho.|dinero|
+subir|v||to go up / to raise|Aumentar.|Ha subido el precio del aceite.|dinero|
+bajar|v||to go down / to lower|Disminuir.|¿Me bajas el precio?|dinero|
+crisis|n|f|crisis|Situación difícil.|La crisis afectó a todos.|sociedad|
+problema|n|m|problem|Situación difícil que hay que resolver.|No hay problema.|sociedad|
+solución|n|f|solution|Forma de resolver un problema.|Tiene fácil solución.|sociedad|
+resolver|v||to solve|Encontrar la solución.|Hemos resuelto el problema.|sociedad|
+cambio|n|m|change|Paso de un estado a otro.|Necesito un cambio de aires.|sociedad|
+desarrollo|n|m|development|Crecimiento o avance.|El desarrollo de la app va bien.|sociedad|
+futuro|n|m|future|Tiempo que vendrá.|¿Qué planes tienes para el futuro?|sociedad|
+pasado|n|m|past|Tiempo que ya pasó.|Eso es cosa del pasado.|sociedad|
+presente|n|m|present|Tiempo actual.|Vive el presente.|sociedad|
+época|n|f|period / era|Espacio de tiempo.|En esa época vivía en Londres.|sociedad|
+siglo|n|m|century|Periodo de cien años.|El edificio es del siglo XIX.|sociedad|
+historia|n|f|history / story|Estudio del pasado; relato.|Me encanta la historia de Roma.|cultura|
+tradición|n|f|tradition|Costumbre que pasa de generación en generación.|Es tradición comer uvas en Nochevieja.|cultura|
+fiesta|n|f|party / public holiday|Reunión para divertirse; día festivo.|El lunes es fiesta en Barcelona.|cultura|
+puente|n|m|bridge / long weekend|Construcción sobre un río; días libres entre festivos.|Este puente nos vamos a la montaña.|cultura|
+festivo|adj||public holiday|Día en que no se trabaja.|Mañana es festivo.|cultura|feriado
+vacaciones|n|f|holidays|Días de descanso del trabajo.|¿Dónde vas de vacaciones?|tiempo libre|
+de vacaciones|expr||on holiday|En periodo de descanso.|Estoy de vacaciones hasta el lunes.|tiempo libre|
+ambiente|n|m|atmosphere|Conjunto de circunstancias de un lugar.|El bar tiene muy buen ambiente.|tiempo libre|
+lugar|n|m|place|Sitio, espacio.|Es un lugar muy tranquilo.|ciudad|
+sitio|n|m|place / room (space)|Lugar; espacio libre.|¿Hay sitio para uno más?|ciudad|
+espacio|n|m|space|Lugar libre.|No hay espacio en la maleta.|ciudad|
+edificio|n|m|building|Construcción grande.|Vivo en un edificio antiguo.|ciudad|
+iglesia|n|f|church|Templo cristiano.|La iglesia es del siglo XIV.|ciudad|
+mercado|n|m|market|Lugar donde se venden alimentos.|Compro la fruta en el mercado.|ciudad|
+panadería|n|f|bakery|Tienda donde se hace y vende pan.|La panadería abre a las siete.|ciudad|
+pastelería|n|f|cake shop|Tienda de pasteles.|Compramos la tarta en la pastelería.|ciudad|
+peluquería|n|f|hairdresser's|Lugar donde se corta el pelo.|Tengo hora en la peluquería.|ciudad|
+tienda|n|f|shop|Lugar donde se vende algo.|La tienda cierra a las ocho.|ciudad|
+estanco|n|m|tobacconist|Tienda de tabaco y sellos.|Compra sellos en el estanco.|ciudad|
+quiosco|n|m|kiosk / newsstand|Pequeña tienda en la calle.|Compré el periódico en el quiosco.|ciudad|
+abierto|adj||open|Que no está cerrado.|¿Está abierto el museo?|ciudad|
+cerrado|adj||closed|Que no está abierto.|Los domingos está cerrado.|ciudad|
+horario de apertura|n|m|opening hours|Horas en que algo está abierto.|¿Cuál es el horario de apertura?|ciudad|
+atender|v||to serve / to attend to|Ocuparse de un cliente.|¿Le atienden?|trabajo|
+dependiente|n|m|shop assistant|Persona que atiende en una tienda.|La dependienta fue muy amable.|trabajo|vendedor
+amable|adj||kind|Que trata bien a los demás.|Muchas gracias, muy amable.|carácter|
+educado|adj||polite|Que tiene buenos modales.|Es un niño muy educado.|carácter|
+grosero|adj||rude / coarse|Que no tiene educación.|No seas grosero.|carácter|
+generoso|adj||generous|Que da a los demás.|Es muy generosa con su tiempo.|carácter|
+tacaño|adj||stingy|Que no le gusta gastar.|No seas tacaño, invita tú.|carácter|codo
+sincero|adj||honest / sincere|Que dice la verdad.|Te voy a ser sincero.|carácter|
+mentir|v||to lie|Decir algo que no es verdad.|No me mientas.|relaciones|
+mentira|n|f|lie|Cosa que no es verdad.|¡Eso es mentira!|relaciones|
+verdad|n|f|truth|Lo que es cierto.|¿De verdad?|relaciones|
+paciente|adj||patient|Que sabe esperar.|Hay que ser paciente con los idiomas.|carácter|
+impaciente|adj||impatient|Que no sabe esperar.|Soy muy impaciente.|carácter|
+valiente|adj||brave|Que tiene valor.|Fuiste muy valiente.|carácter|
+miedoso|adj||fearful / scaredy|Que tiene miedo fácilmente.|Mi perro es muy miedoso.|carácter|
+alegre|adj||cheerful|Que está contento.|Es una persona muy alegre.|carácter|
+serio|adj||serious|Que no se ríe fácilmente; importante.|¿Por qué estás tan serio?|carácter|
+abierto|adj||open / outgoing|Sociable, que acepta ideas nuevas.|Es muy abierta con todo el mundo.|carácter|
+cerrado|adj||reserved / closed-minded|Poco sociable.|Es un poco cerrado al principio.|carácter|
+creativo|adj||creative|Que inventa cosas nuevas.|Eres muy creativo.|carácter|
+trabajador|adj||hard-working|Que trabaja mucho.|Es muy trabajadora.|carácter|chambeador
+responsable|adj||responsible|Que cumple sus obligaciones.|Es un chico muy responsable.|carácter|
+puntual|adj||punctual|Que llega a su hora.|Intento ser puntual.|carácter|
+listo|adj||clever / ready|Inteligente; preparado.|¿Estás listo? Es muy lista.|carácter|
+tonto|adj||silly / stupid|Poco inteligente.|No seas tonto.|carácter|
+loco|adj||crazy|Que ha perdido la razón; muy entusiasmado.|Estoy loco por ir a Japón.|carácter|
+pesado|adj||heavy / annoying|Que pesa mucho; molesto.|¡Qué pesado eres!|carácter|latoso
+majo|adj||nice / lovely (Spain)|Simpático, agradable.|Tu novia es muy maja.|carácter|buena onda
+borde|adj||rude / unfriendly (Spain)|Antipático, que contesta mal.|El camarero fue muy borde.|carácter|pesado
+cutre|adj||shabby / tacky (Spain)|De mala calidad, pobre.|El hotel era un poco cutre.|expresiones|
+chulo|adj||cool / cocky|Bonito; presumido.|¡Qué chulo tu vestido!|expresiones|padre
+pijo|adj||posh (Spain)|De clase alta, presumido.|Es un barrio muy pijo.|expresiones|fresa
+flipante|adj||amazing (colloquial)|Increíble.|La vista es flipante.|expresiones|
+tapeo|n|m|going for tapas|Acción de ir de tapas.|¿Nos vamos de tapeo?|comida|
+vermut|n|m|vermouth (aperitif)|Bebida aperitivo; momento antes de comer.|Los domingos hacemos el vermut.|comida|
+chiringuito|n|m|beach bar|Bar pequeño en la playa.|Comemos en el chiringuito.|comida|
+cotilleo|n|m|gossip|Comentario sobre la vida de otros.|Cuéntame el cotilleo.|comunicación|chisme

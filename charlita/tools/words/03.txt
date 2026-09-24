@@ -1,0 +1,117 @@
+viaje|n|m|trip / journey|Desplazamiento de un lugar a otro.|¡Buen viaje!|viajes|
+maleta|n|f|suitcase|Bolsa grande para llevar ropa en un viaje.|Todavía no he hecho la maleta.|viajes|valija
+hacer la maleta|expr||to pack|Meter las cosas en la maleta.|Hago la maleta la noche antes.|viajes|
+equipaje|n|m|luggage|Conjunto de maletas.|Solo llevo equipaje de mano.|viajes|
+vuelo|n|m|flight|Viaje en avión.|El vuelo sale a las seis.|viajes|
+aterrizar|v||to land|Bajar un avión a tierra.|Aterrizamos en Madrid a las diez.|viajes|
+despegar|v||to take off|Subir un avión desde tierra.|El avión despega con retraso.|viajes|
+tarjeta de embarque|n|f|boarding pass|Documento para subir al avión.|Enseñe su tarjeta de embarque.|viajes|pase de abordar
+alojamiento|n|m|accommodation|Lugar donde uno se queda a dormir.|El alojamiento está incluido.|viajes|
+albergue|n|m|hostel|Alojamiento barato y compartido.|Dormimos en un albergue en el Camino.|viajes|
+destino|n|m|destination / fate|Lugar al que se va; lo que pasará.|¿Cuál es tu destino favorito?|viajes|
+extranjero|n|m|abroad / foreigner|Otro país; persona de otro país.|Mi hermano vive en el extranjero.|viajes|
+turista|n|mf|tourist|Persona que viaja por placer.|El centro está lleno de turistas.|viajes|
+guía|n|mf|guide|Persona o libro que orienta.|La guía del museo era muy divertida.|viajes|
+mapa|n|m|map|Dibujo de un territorio.|Mira el mapa en el móvil.|viajes|
+perderse|v||to get lost|No saber dónde se está.|Me perdí en el Barrio Gótico.|viajes|
+recorrer|v||to travel around / to go through|Ir por un lugar de un extremo a otro.|Queremos recorrer Andalucía en coche.|viajes|
+paisaje|n|m|landscape / scenery|Vista de un lugar natural.|El paisaje del Pirineo es precioso.|naturaleza|
+playa|n|f|beach|Orilla del mar con arena.|Los domingos vamos a la playa.|naturaleza|
+orilla|n|f|shore / bank|Borde del mar o de un río.|Paseamos por la orilla.|naturaleza|
+ola|n|f|wave|Movimiento del agua del mar.|Hoy hay olas grandes.|naturaleza|
+arena|n|f|sand|Granos pequeños de las playas.|Tengo arena en los zapatos.|naturaleza|
+montaña|n|f|mountain|Elevación grande del terreno.|Este verano vamos a la montaña.|naturaleza|
+sendero|n|m|path / trail|Camino estrecho en el campo.|Seguimos el sendero hasta el lago.|naturaleza|
+senderismo|n|m|hiking|Actividad de caminar por la naturaleza.|Hago senderismo los fines de semana.|tiempo libre|
+campo|n|m|countryside / field|Terreno fuera de las ciudades.|Mis abuelos viven en el campo.|naturaleza|
+bosque|n|m|forest / woods|Lugar con muchos árboles.|Hay setas en el bosque.|naturaleza|
+río|n|m|river|Corriente de agua.|Nos bañamos en el río.|naturaleza|
+cielo|n|m|sky|Espacio sobre la tierra.|El cielo está despejado.|naturaleza|
+nube|n|f|cloud|Masa de vapor de agua en el cielo.|Hay nubes, pero no lloverá.|naturaleza|
+despejado|adj||clear (sky)|Sin nubes.|Mañana estará despejado.|tiempo|
+nublado|adj||cloudy|Con nubes.|Está nublado desde esta mañana.|tiempo|
+llover|v||to rain|Caer agua de las nubes.|No para de llover.|tiempo|
+lluvia|n|f|rain|Agua que cae de las nubes.|Me encanta el sonido de la lluvia.|tiempo|
+tormenta|n|f|storm|Lluvia fuerte con truenos.|Anoche hubo una tormenta enorme.|tiempo|
+paraguas|n|m|umbrella|Objeto para protegerse de la lluvia.|Coge el paraguas, por si acaso.|tiempo|sombrilla
+calor|n|m|heat|Temperatura alta.|¡Qué calor hace hoy!|tiempo|
+bochorno|n|m|muggy heat|Calor húmedo y pesado.|En agosto hay un bochorno insoportable.|tiempo|
+humedad|n|f|humidity|Cantidad de agua en el aire.|La humedad de Barcelona me mata.|tiempo|
+fresco|adj||cool / fresh|Algo frío pero agradable; recién hecho.|Por la noche hace fresco.|tiempo|
+helar|v||to freeze|Bajar la temperatura por debajo de cero.|Esta noche va a helar.|tiempo|
+viento|n|m|wind|Aire en movimiento.|Hace mucho viento en la playa.|tiempo|
+sol|n|m|sun|Estrella que da luz a la Tierra.|Vamos a tomar el sol.|tiempo|
+sombra|n|f|shade / shadow|Zona sin luz directa del sol.|Sentémonos a la sombra.|tiempo|
+estación|n|f|season / station|Parte del año; lugar donde para el tren.|Mi estación favorita es el otoño.|tiempo|
+otoño|n|m|autumn|Estación entre el verano y el invierno.|En otoño caen las hojas.|tiempo|
+primavera|n|f|spring|Estación entre el invierno y el verano.|En primavera todo florece.|tiempo|
+animal|n|m|animal|Ser vivo que siente y se mueve.|Me encantan los animales.|naturaleza|
+mascota|n|f|pet|Animal que vive con una familia.|¿Tienes mascota?|naturaleza|
+erizo|n|m|hedgehog|Mamífero pequeño con púas.|Vimos un erizo en el jardín.|naturaleza|
+ardilla|n|f|squirrel|Roedor de cola grande que vive en los árboles.|Una ardilla subió al pino.|naturaleza|
+colibrí|n|m|hummingbird|Pájaro muy pequeño que vuela muy rápido.|El colibrí puede volar hacia atrás.|naturaleza|
+loro|n|m|parrot|Pájaro de colores que puede imitar la voz.|El loro de mi tía dice "hola".|naturaleza|
+zorro|n|m|fox|Mamífero salvaje de cola larga y pelo rojizo.|Un zorro cruzó la carretera.|naturaleza|
+búho|n|m|owl|Ave nocturna de ojos grandes.|El búho sale de noche.|naturaleza|
+gato|n|m|cat|Animal doméstico felino.|Mi gato duerme todo el día.|naturaleza|
+pájaro|n|m|bird|Ave pequeña que vuela.|Por la mañana cantan los pájaros.|naturaleza|
+hormiga|n|f|ant|Insecto pequeño que vive en grupos.|Hay hormigas en la cocina.|naturaleza|
+mosquito|n|m|mosquito|Insecto que pica.|Me han picado los mosquitos.|naturaleza|zancudo
+picar|v||to bite / to sting / to itch; to snack|Morder un insecto; sentir picor; comer un poco.|¿Te pica? No te rasques.|naturaleza|
+medio ambiente|n|m|environment|Naturaleza y condiciones que rodean a los seres vivos.|Hay que cuidar el medio ambiente.|naturaleza|
+contaminación|n|f|pollution|Suciedad del aire, del agua o del suelo.|La contaminación en la ciudad es alta.|naturaleza|
+residuo|n|m|waste|Lo que sobra y se tira.|Separamos los residuos orgánicos.|naturaleza|
+cambio climático|n|m|climate change|Variación del clima de la Tierra.|El cambio climático nos afecta a todos.|naturaleza|
+sequía|n|f|drought|Tiempo largo sin lluvia.|Cataluña ha sufrido una gran sequía.|naturaleza|
+incendio|n|m|fire (large)|Fuego grande que destruye.|Hubo un incendio en el bosque.|naturaleza|
+salud|n|f|health|Estado del cuerpo cuando funciona bien.|La salud es lo primero.|salud|
+médico|n|m|doctor|Persona que cura enfermedades.|Tengo cita con el médico.|salud|doctor
+ambulatorio|n|m|health centre|Centro médico de barrio.|Voy al ambulatorio a por la receta.|salud|
+cita|n|f|appointment / date|Hora acordada para verse.|Tengo cita a las cinco.|salud|
+farmacia|n|f|pharmacy|Tienda de medicamentos.|La farmacia de guardia está abierta.|salud|
+pastilla|n|f|pill|Medicamento pequeño y sólido.|Tómate una pastilla para el dolor.|salud|
+jarabe|n|m|syrup|Medicina líquida y dulce.|Este jarabe es para la tos.|salud|
+doler|v||to hurt|Sentir dolor en una parte del cuerpo.|Me duele la cabeza.|salud|
+dolor|n|m|pain|Sensación de daño en el cuerpo.|Tengo un dolor en la espalda.|salud|
+tos|n|f|cough|Expulsión fuerte de aire por la boca.|Tengo tos desde el lunes.|salud|
+resfriado|n|m|cold|Enfermedad leve con mocos y tos.|He cogido un resfriado.|salud|resfrío
+constipado|adj||having a cold|Con resfriado.|Estoy constipado, no puedo respirar bien.|salud|resfriado
+fiebre|n|f|fever|Temperatura alta del cuerpo.|El niño tiene fiebre.|salud|
+mareado|adj||dizzy / sick|Con sensación de que todo da vueltas.|Me mareo en el barco.|salud|
+herida|n|f|wound|Daño en la piel.|Límpiate bien la herida.|salud|
+hacerse daño|expr||to hurt oneself|Lastimarse.|Me hice daño en el pie jugando al fútbol.|salud|lastimarse
+tirita|n|f|plaster / band-aid|Pequeña venda adhesiva.|¿Tienes una tirita?|salud|curita
+urgencias|n|f|emergency room|Parte del hospital para casos urgentes.|Tuvimos que ir a urgencias.|salud|emergencias
+seguro|n|m|insurance|Contrato que protege ante riesgos.|¿Tienes seguro médico?|salud|
+baja|n|f|sick leave|Permiso de trabajo por enfermedad.|Estoy de baja esta semana.|salud|incapacidad
+recuperarse|v||to recover|Volver a estar bien.|Espero que te recuperes pronto.|salud|
+mejorarse|v||to get better|Ponerse mejor de salud.|¡Que te mejores!|salud|
+cuerpo|n|m|body|Conjunto de partes de un ser vivo.|Hay que escuchar al cuerpo.|salud|
+espalda|n|f|back|Parte de atrás del cuerpo.|Me duele la espalda de estar sentado.|salud|
+hombro|n|m|shoulder|Parte donde se une el brazo al cuerpo.|Llevo la mochila en un hombro.|salud|
+rodilla|n|f|knee|Articulación de la pierna.|Me he dado un golpe en la rodilla.|salud|
+tobillo|n|m|ankle|Articulación entre el pie y la pierna.|Me torcí el tobillo.|salud|
+muñeca|n|f|wrist / doll|Articulación de la mano; juguete.|Llevo el reloj en la muñeca izquierda.|salud|
+cuello|n|m|neck|Parte que une la cabeza al cuerpo.|Tengo el cuello rígido.|salud|
+garganta|n|f|throat|Parte interna del cuello.|Me duele la garganta.|salud|
+estómago|n|m|stomach|Órgano donde se digiere la comida.|Tengo el estómago revuelto.|salud|
+piel|n|f|skin|Capa que cubre el cuerpo.|Ponte crema, tienes la piel roja.|salud|
+sangre|n|f|blood|Líquido rojo del cuerpo.|Me hicieron un análisis de sangre.|salud|
+ejercicio|n|m|exercise|Actividad física.|Hago ejercicio tres veces por semana.|salud|
+gimnasio|n|m|gym|Lugar para hacer ejercicio.|Me he apuntado al gimnasio.|salud|gym
+apuntarse|v||to sign up / to join|Inscribirse en algo.|¿Te apuntas a la cena?|tiempo libre|inscribirse
+entrenar|v||to train|Prepararse físicamente.|Entreno por las mañanas.|salud|
+estirar|v||to stretch|Alargar los músculos.|Estira antes de correr.|salud|
+sudar|v||to sweat|Echar agua por la piel.|Sudé muchísimo en la clase.|salud|
+descansar|v||to rest|Parar para recuperar fuerzas.|Necesito descansar un poco.|salud|
+dormirse|v||to fall asleep|Empezar a dormir.|Me dormí viendo la película.|vida diaria|
+despertarse|v||to wake up|Dejar de dormir.|Me despierto a las siete.|vida diaria|
+soñar|v||to dream|Ver imágenes mientras se duerme; desear algo.|Anoche soñé que volaba.|vida diaria|
+sueño|n|m|sleep / dream|Ganas de dormir; lo que se imagina durmiendo.|Tengo mucho sueño.|vida diaria|
+pesadilla|n|f|nightmare|Sueño que da miedo.|Tuve una pesadilla horrible.|vida diaria|
+ducharse|v||to shower|Lavarse bajo el agua de la ducha.|Me ducho por la noche.|vida diaria|bañarse
+peinarse|v||to comb one's hair|Arreglarse el pelo.|No me he peinado hoy.|vida diaria|
+vestirse|v||to get dressed|Ponerse la ropa.|Vístete, que llegamos tarde.|vida diaria|
+arreglarse|v||to get ready / to dress up|Prepararse para salir.|Tardo diez minutos en arreglarme.|vida diaria|
+maquillarse|v||to put on make-up|Ponerse maquillaje.|Hoy no me he maquillado.|vida diaria|
+afeitarse|v||to shave|Quitarse el pelo de la cara.|Me afeito cada dos días.|vida diaria|rasurarse

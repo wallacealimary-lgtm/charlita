@@ -1,0 +1,104 @@
+humilde|adj||humble|Sin orgullo.|Es muy humilde a pesar del éxito.|carácter|
+humor|n|m|humour / mood|Gracia; estado de ánimo.|Tiene un gran sentido del humor.|carácter|
+igualdad|n|f|equality|Condición de ser iguales.|Igualdad de oportunidades.|sociedad|
+ilusionado|adj||excited / hopeful|Con ilusión.|Estoy muy ilusionado con el viaje.|emociones|
+impresionante|adj||impressive|Que impresiona.|Una vista impresionante.|expresiones|
+imprimir|v||to print|Pasar a papel.|¿Puedes imprimir el billete?|tecnología|
+incendio forestal|n|m|forest fire|Fuego en un bosque.|Hay riesgo de incendio forestal.|naturaleza|
+incluido|adj||included|Que forma parte.|Desayuno incluido.|viajes|
+inconveniente|n|m|drawback / problem|Dificultad.|No hay inconveniente.|comunicación|
+indicar|v||to indicate / to show|Señalar.|¿Me indica el camino?|ciudad|
+inesperado|adj||unexpected|Que no se espera.|Una visita inesperada.|expresiones|
+infancia|n|f|childhood|Periodo de niño.|Tuve una infancia feliz.|familia|
+informe|n|m|report|Documento con información.|Tengo que entregar el informe.|trabajo|reporte
+ingenuo|adj||naive|Que cree todo fácilmente.|No seas ingenuo.|carácter|
+inquieto|adj||restless / uneasy|Que no está tranquilo.|El perro está inquieto.|emociones|
+insistir|v||to insist|Repetir una petición.|Si insistes, voy.|comunicación|
+intercambio|n|m|exchange / language exchange|Cambio mutuo; encuentro para practicar idiomas.|Voy a un intercambio los jueves.|estudios|
+interesarse|v||to take an interest|Mostrar interés.|Se interesa mucho por la cultura.|emociones|
+inundación|n|f|flood|Agua que cubre un lugar.|Hubo inundaciones en el sur.|naturaleza|
+inversión|n|f|investment|Dinero puesto para ganar más.|Una buena inversión.|dinero|
+invierno|n|m|winter|Estación fría.|En invierno anochece pronto.|tiempo|
+jardín|n|m|garden|Terreno con plantas.|Tienen un jardín precioso.|casa|
+juego|n|m|game|Actividad para divertirse.|Un juego de mesa.|tiempo libre|
+juicio|n|m|judgement / trial|Opinión; proceso legal.|A mi juicio, es buena idea.|sociedad|
+juntos|adj||together|Unidos.|Vamos juntos.|relaciones|
+juventud|n|f|youth|Etapa de joven.|En mi juventud viajé mucho.|familia|
+lágrima|n|f|tear|Gota que sale del ojo.|Se me saltaron las lágrimas.|emociones|
+lástima|n|f|pity|Pena.|¡Qué lástima!|emociones|
+lavar|v||to wash|Limpiar con agua.|Lava la fruta antes de comerla.|casa|
+lento|adj||slow|De poca velocidad.|El wifi va muy lento.|descripción|
+libertad|n|f|freedom|Capacidad de actuar libremente.|Me encanta la libertad de viajar.|sociedad|
+libre|adj||free / available|Sin obligación; desocupado.|¿Estás libre el sábado?|tiempo libre|
+limpieza|n|f|cleaning|Acción de limpiar.|Hoy toca limpieza general.|casa|
+llamativo|adj||striking / eye-catching|Que llama la atención.|Un color muy llamativo.|descripción|
+llenar|v||to fill|Poner algo dentro hasta arriba.|Llena la botella de agua.|vida diaria|
+lograr|v||to manage to|Conseguir.|Logré hablar sin nervios.|trabajo|
+luchar|v||to fight / to struggle|Esforzarse contra algo.|Hay que luchar por lo que quieres.|emociones|
+lujo|n|m|luxury|Cosa cara y especial.|Un hotel de lujo.|dinero|
+madurar|v||to mature / to ripen|Hacerse maduro.|Has madurado mucho.|carácter|
+maleducado|adj||bad-mannered|Sin educación.|Fue muy maleducado.|carácter|
+malestar|n|m|discomfort / unease|Sensación de estar mal.|Siento un malestar general.|salud|
+manejar|v||to handle / to use|Usar con las manos; gestionar.|Manejo bien el Excel.|trabajo|
+manera|n|f|way / manner|Forma de hacer algo.|De esta manera es más fácil.|comunicación|
+mareo|n|m|dizziness|Sensación de mareo.|Me dio un mareo.|salud|
+marearse|v||to get dizzy / seasick|Sentir mareo.|Me mareo en el coche.|salud|
+matrimonio|n|m|marriage / married couple|Unión de pareja.|Un matrimonio muy feliz.|familia|
+mayoría|n|f|majority|La mayor parte.|La mayoría está de acuerdo.|sociedad|
+medida|n|f|measure / size|Acción; tamaño.|Tomaron medidas contra el ruido.|sociedad|
+medir|v||to measure|Calcular el tamaño.|¿Cuánto mides?|descripción|
+mejora|n|f|improvement|Cambio a mejor.|Se nota la mejora.|estudios|
+mencionar|v||to mention|Nombrar.|No lo mencionó.|comunicación|
+mentiroso|adj||liar / lying|Que miente.|¡Mentiroso!|carácter|
+merecer|v||to deserve|Ser digno de algo.|Te lo mereces.|emociones|
+meterse|v||to get into / to meddle|Entrar; intervenir.|No te metas donde no te llaman.|relaciones|
+miedo escénico|n|m|stage fright|Miedo a actuar en público.|Tengo miedo escénico.|emociones|
+mimar|v||to spoil / to pamper|Tratar con mucho cariño.|Mis abuelos me mimaban.|familia|
+mitad|n|f|half|Una de dos partes iguales.|Dame la mitad.|reserva|
+moda|n|f|fashion|Estilo del momento.|Está de moda.|ropa|
+modales|n|m|manners|Forma de comportarse.|Tiene muy buenos modales.|carácter|
+molesto|adj||annoying / annoyed|Que molesta; enfadado.|Estoy molesto contigo.|emociones|
+moneda|n|f|coin / currency|Pieza de metal; dinero de un país.|No tengo monedas.|dinero|
+montar|v||to ride / to set up|Subir a algo; organizar.|Montar en bici.|tiempo libre|
+motivo|n|m|reason|Causa.|¿Por qué motivo?|comunicación|
+mudanza|n|f|move (house)|Cambio de casa.|La mudanza fue agotadora.|casa|
+muestra|n|f|sample / sign|Parte de algo; señal.|Es una muestra de cariño.|reserva|
+multa|n|f|fine|Castigo con dinero.|Me pusieron una multa de aparcamiento.|ciudad|
+nacimiento|n|m|birth|Hecho de nacer.|Fecha de nacimiento.|familia|
+naturalidad|n|f|naturalness|Espontaneidad.|Habla con naturalidad.|comunicación|
+negocio|n|m|business|Actividad comercial.|Tiene un negocio de ropa.|trabajo|
+nervios|n|m|nerves|Estado de nerviosismo.|¡Qué nervios!|emociones|
+nivel|n|m|level|Grado.|¿Qué nivel de español tienes?|estudios|
+nostalgia|n|f|nostalgia / homesickness|Tristeza por algo pasado o lejano.|Siento nostalgia de mi país.|emociones|
+nota mental|expr||mental note|Recordatorio para uno mismo.|Nota mental: comprar pan.|comunicación|
+novedad|n|f|news / novelty|Cosa nueva.|¿Alguna novedad?|comunicación|
+obligatorio|adj||compulsory|Que hay que hacer.|Es obligatorio llevar casco.|sociedad|
+ocio|n|m|leisure|Tiempo libre.|Ofertas de ocio en la ciudad.|tiempo libre|
+ocupado|adj||busy / occupied|Con cosas que hacer.|Estoy ocupado ahora.|trabajo|
+ofenderse|v||to take offence|Sentirse molesto por algo.|No te ofendas.|emociones|
+oportunidad|n|f|opportunity|Momento favorable.|Es una gran oportunidad.|trabajo|
+optimista|adj||optimistic|Que ve lo bueno.|Soy bastante optimista.|carácter|
+orgánico|adj||organic|Natural, sin químicos.|Fruta orgánica.|comida|
+orgullo|n|m|pride|Satisfacción propia.|Lo digo con orgullo.|emociones|
+oscuridad|n|f|darkness|Falta de luz.|Me da miedo la oscuridad.|emociones|
+paciencia|n|f|patience|Capacidad de esperar.|Ten paciencia.|carácter|
+pagar a medias|expr||to split the bill|Pagar la mitad cada uno.|¿Pagamos a medias?|dinero|
+pantalones cortos|n|m|shorts|Pantalones que no llegan a la rodilla.|En verano llevo pantalones cortos.|ropa|shorts
+parecido|adj||similar|Que se parece.|Son muy parecidos.|descripción|
+pariente|n|mf|relative|Familiar.|Tengo parientes en Galicia.|familia|
+participar|v||to take part|Tomar parte.|¿Quieres participar?|tiempo libre|
+pasillo|n|m|corridor / aisle|Parte estrecha de una casa o avión.|Asiento de pasillo, por favor.|casa|
+paso|n|m|step|Movimiento al andar.|Paso a paso.|reserva|
+peatón|n|m|pedestrian|Persona que va a pie.|Calle solo para peatones.|ciudad|
+pedido|n|m|order|Encargo de productos.|Tu pedido llega mañana.|compras|
+pegar|v||to stick / to hit|Unir con pegamento; golpear.|Pega la foto en la nevera.|vida diaria|
+película de miedo|n|f|horror film|Película que da miedo.|No veo películas de miedo.|cultura|
+peligro|n|m|danger|Riesgo.|¡Peligro! No pasar.|sociedad|
+pena|n|f|sorrow / shame|Tristeza.|Me da pena irme.|emociones|
+pendiente|adj||pending|Que falta por hacer.|Tengo cosas pendientes.|trabajo|
+perezoso|adj||lazy|Sin ganas de esforzarse.|Los domingos soy muy perezoso.|carácter|
+permiso|n|m|permission / leave|Autorización.|Pide permiso antes.|trabajo|
+personalidad|n|f|personality|Forma de ser.|Tiene mucha personalidad.|carácter|
+pesimista|adj||pessimistic|Que ve lo malo.|No seas tan pesimista.|carácter|
+picoteo|n|m|nibbles|Comida variada para picar.|Hay picoteo en la fiesta.|comida|botana
+pista|n|f|clue / track / court|Indicio; lugar para correr o jugar.|Dame una pista.|reserva|

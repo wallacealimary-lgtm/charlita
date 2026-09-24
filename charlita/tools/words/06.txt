@@ -1,0 +1,114 @@
+acostumbrarse|v||to get used to|Adaptarse a algo nuevo.|Ya me he acostumbrado al ruido.|vida diaria|
+adaptarse|v||to adapt|Acomodarse a una situación.|Los niños se adaptan rápido.|vida diaria|
+atreverse|v||to dare|Tener valor para hacer algo.|No me atrevo a hablar con él.|emociones|
+arriesgarse|v||to take a risk|Exponerse a un peligro.|Hay que arriesgarse un poco.|emociones|
+superar|v||to overcome / to exceed|Vencer una dificultad; ser mayor que algo.|Superé mi miedo a volar.|emociones|
+enfrentarse|v||to face|Hacer frente a algo difícil.|Tienes que enfrentarte al problema.|emociones|
+rendirse|v||to give up|Dejar de intentar algo.|¡No te rindas!|emociones|
+dejar de|expr||to stop (doing)|No seguir haciendo algo.|He dejado de fumar.|vida diaria|
+volver a|expr||to (do) again|Hacer algo otra vez.|Vuelve a intentarlo.|vida diaria|
+seguir + gerundio|expr||to keep (doing)|Continuar haciendo algo.|Sigo viviendo en el mismo piso.|vida diaria|
+acabar de|expr||to have just (done)|Haber hecho algo hace muy poco.|Acabo de llegar.|vida diaria|
+estar a punto de|expr||to be about to|Ir a hacer algo muy pronto.|Estoy a punto de salir.|vida diaria|
+soler|v||to usually (do)|Hacer algo de forma habitual.|Suelo desayunar en casa.|vida diaria|acostumbrar
+tardar|v||to take (time)|Necesitar un tiempo para algo.|¿Cuánto tardas en llegar?|vida diaria|demorar
+durar|v||to last|Continuar durante un tiempo.|La película dura dos horas.|vida diaria|
+faltar|v||to be missing / to lack|No estar algo que debería.|Falta sal. Faltan cinco minutos.|vida diaria|
+sobrar|v||to be left over / too much|Haber más de lo necesario.|Ha sobrado mucha comida.|vida diaria|
+bastar|v||to be enough|Ser suficiente.|Basta con decirlo una vez.|vida diaria|
+importar|v||to matter / to mind|Tener importancia; molestar.|¿Te importa si me siento?|vida diaria|
+preocuparse|v||to worry|Sentir inquietud.|No te preocupes, todo irá bien.|emociones|
+quejarse|v||to complain|Expresar descontento.|Siempre se queja del tiempo.|emociones|
+arrepentirse|v||to regret|Sentir haber hecho algo.|No me arrepiento de nada.|emociones|
+alegrarse|v||to be glad|Sentir alegría por algo.|Me alegro mucho de verte.|emociones|
+enamorarse|v||to fall in love|Empezar a sentir amor.|Me enamoré de Barcelona.|emociones|
+odiar|v||to hate|Sentir mucha antipatía.|Odio madrugar.|emociones|
+encantar|v||to love (something)|Gustar muchísimo.|Me encanta este barrio.|emociones|
+fastidiar|v||to annoy / to ruin|Molestar; estropear.|Me fastidia llegar tarde.|emociones|
+estropear|v||to break / to spoil|Dañar algo para que no funcione.|Se ha estropeado la lavadora.|casa|descomponer
+romper|v||to break|Partir algo en trozos.|Se me ha roto el móvil.|casa|
+arreglar|v||to fix / to tidy|Reparar; ordenar.|¿Sabes arreglar bicis?|casa|
+funcionar|v||to work (machine)|Hacer bien su trabajo una máquina.|El wifi no funciona.|casa|
+averiado|adj||broken down / out of order|Que no funciona por un fallo.|El ascensor está averiado.|casa|descompuesto
+fontanero|n|m|plumber|Persona que arregla tuberías.|Hay que llamar al fontanero.|casa|plomero
+reforma|n|f|renovation / reform|Obra para cambiar una casa; cambio.|Estamos de reforma en la cocina.|casa|remodelación
+mueble|n|m|piece of furniture|Objeto como mesas, sillas o armarios.|El piso se alquila con muebles.|casa|
+armario|n|m|wardrobe / cupboard|Mueble para guardar cosas.|No me cabe más ropa en el armario.|casa|clóset
+estantería|n|f|shelves / bookcase|Mueble con estantes.|Monté la estantería yo solo.|casa|librero
+cajón|n|m|drawer|Parte de un mueble que se abre tirando.|Las tijeras están en el primer cajón.|casa|
+sábana|n|f|sheet|Tela para la cama.|Cambio las sábanas los domingos.|casa|
+almohada|n|f|pillow|Cojín para la cabeza al dormir.|Esta almohada es muy dura.|casa|
+manta|n|f|blanket|Tela gruesa para abrigarse.|Pásame la manta, tengo frío.|casa|cobija
+toalla|n|f|towel|Tela para secarse.|No te olvides la toalla de playa.|casa|
+cortina|n|f|curtain|Tela que tapa una ventana.|Cierra las cortinas, que da el sol.|casa|
+persiana|n|f|blind / shutter|Cierre de láminas para una ventana.|Sube la persiana, por favor.|casa|
+suelo|n|m|floor / ground|Superficie sobre la que se anda.|El suelo está mojado.|casa|piso
+techo|n|m|ceiling / roof|Parte de arriba de una habitación.|Hay una mancha en el techo.|casa|
+pared|n|f|wall|Muro de una habitación.|Colgamos un cuadro en la pared.|casa|
+ruido|n|m|noise|Sonido molesto.|Hay mucho ruido en la calle.|casa|
+ruidoso|adj||noisy|Que hace mucho ruido.|Mis vecinos son muy ruidosos.|casa|
+silencio|n|m|silence|Ausencia de ruido.|Me gusta el silencio de la mañana.|casa|
+luminoso|adj||bright / full of light|Con mucha luz.|El piso es pequeño pero luminoso.|casa|
+oscuro|adj||dark|Sin luz.|El pasillo es muy oscuro.|casa|
+cómodo|adj||comfortable / convenient|Que da bienestar; práctico.|Este sofá es muy cómodo.|casa|
+incómodo|adj||uncomfortable / awkward|Que no da bienestar.|Fue un silencio incómodo.|casa|
+limpio|adj||clean|Sin suciedad.|La cocina está limpia.|casa|
+sucio|adj||dirty|Con manchas o suciedad.|Tengo el coche sucio.|casa|
+ordenado|adj||tidy|Con cada cosa en su lugar.|Mi habitación nunca está ordenada.|casa|
+desordenado|adj||messy|Sin orden.|Soy un poco desordenado.|casa|
+mancha|n|f|stain|Marca de suciedad.|Tengo una mancha de vino en la camisa.|casa|
+polvo|n|m|dust|Partículas de tierra muy finas.|Hay polvo en las estanterías.|casa|
+oler|v||to smell|Percibir o desprender olores.|¡Qué bien huele!|casa|
+olor|n|m|smell|Lo que se percibe con la nariz.|Me encanta el olor a café.|casa|
+sabor|n|m|taste / flavour|Lo que se percibe con la boca.|¿De qué sabor es el helado?|comida|
+sabroso|adj||tasty|Con buen sabor.|Un plato sencillo pero sabroso.|comida|
+crudo|adj||raw|Sin cocinar.|El pescado crudo no me gusta.|comida|
+hecho|adj||done / cooked|Cocinado; terminado.|¿La carne muy hecha o poco hecha?|comida|
+maduro|adj||ripe / mature|Listo para comer; con experiencia.|Los plátanos ya están maduros.|comida|
+caducar|v||to expire|Pasar la fecha de uso.|El yogur caducó ayer.|comida|vencer
+fecha de caducidad|n|f|expiry date|Día hasta el que se puede usar algo.|Mira la fecha de caducidad.|comida|fecha de vencimiento
+bolsa|n|f|bag|Recipiente de tela o plástico.|¿Necesita bolsa?|compras|
+envase|n|m|container / packaging|Recipiente de un producto.|Recicla los envases en el contenedor amarillo.|compras|
+lata|n|f|can / tin; nuisance|Envase de metal; cosa pesada.|¡Qué lata tener que esperar!|compras|
+botella|n|f|bottle|Recipiente de cristal o plástico con cuello.|Una botella de agua, por favor.|compras|
+trozo|n|m|piece|Parte de algo.|¿Quieres un trozo de tarta?|comida|pedazo
+pedazo|n|m|piece|Trozo de algo.|Dame un pedazo de pan.|comida|
+cucharada|n|f|spoonful|Lo que cabe en una cuchara.|Añade una cucharada de azúcar.|comida|
+tenedor|n|m|fork|Utensilio con púas para comer.|Me falta un tenedor.|comida|
+cuchillo|n|m|knife|Utensilio para cortar.|Este cuchillo no corta.|comida|
+cuchara|n|f|spoon|Utensilio para comer sopa.|¿Me pasas una cuchara?|comida|
+vaso|n|m|glass|Recipiente para beber.|Un vaso de agua, por favor.|comida|
+taza|n|f|cup / mug|Recipiente con asa para bebidas calientes.|Me tomo una taza de té.|comida|
+plato|n|m|plate / dish|Recipiente para la comida; comida preparada.|¿Cuál es tu plato favorito?|comida|
+servilleta|n|f|napkin|Trozo de papel o tela para limpiarse.|¿Me trae una servilleta?|comida|
+mantel|n|m|tablecloth|Tela que cubre la mesa.|Pon el mantel, que vamos a comer.|comida|
+poner la mesa|expr||to set the table|Preparar la mesa para comer.|¿Pones la mesa?|casa|
+quitar la mesa|expr||to clear the table|Recoger lo que hay en la mesa.|Yo quito la mesa y tú friegas.|casa|levantar la mesa
+sobremesa|n|f|after-meal chat|Tiempo de charla tras la comida.|La sobremesa duró tres horas.|comida|
+pedir para llevar|expr||to order to take away|Pedir comida para comer en otro sitio.|¿Es para tomar aquí o para llevar?|comida|
+a domicilio|expr||home delivery|Llevado a casa.|Pedimos comida a domicilio.|comida|
+ser de buen comer|expr||to be a big eater|Comer mucho y con gusto.|Mi padre es de buen comer.|comida|
+estar a dieta|expr||to be on a diet|Controlar lo que se come.|Estoy a dieta hasta el verano.|salud|
+vegetariano|adj||vegetarian|Que no come carne.|¿Tienen platos vegetarianos?|comida|
+sano|adj||healthy|Bueno para la salud.|Intento comer más sano.|salud|saludable
+engordar|v||to put on weight|Aumentar de peso.|He engordado en vacaciones.|salud|
+adelgazar|v||to lose weight|Perder peso.|Quiere adelgazar para el verano.|salud|bajar de peso
+peso|n|m|weight|Lo que pesa algo o alguien.|Controla tu peso.|salud|
+altura|n|f|height|Medida de algo de abajo arriba.|¿Qué altura tiene ese edificio?|salud|
+alto|adj||tall / high|De mucha altura.|Mi hermano es muy alto.|descripción|
+bajo|adj||short / low|De poca altura.|Soy más bajo que mi padre.|descripción|chaparro
+delgado|adj||slim|De poco peso.|Está muy delgado.|descripción|flaco
+rubio|adj||blond|De pelo amarillo.|Su hija es rubia.|descripción|güero
+moreno|adj||dark-haired / tanned|De pelo oscuro; bronceado.|Estás muy moreno después de la playa.|descripción|
+pelirrojo|adj||red-haired|De pelo rojo.|Tiene un gato pelirrojo.|descripción|
+calvo|adj||bald|Sin pelo en la cabeza.|Mi abuelo es calvo.|descripción|pelón
+barba|n|f|beard|Pelo de la cara.|Me estoy dejando barba.|descripción|
+pelo|n|m|hair|Filamentos que crecen en la cabeza.|Tengo el pelo largo.|descripción|cabello
+rizado|adj||curly|Con rizos.|Tiene el pelo rizado.|descripción|chino
+liso|adj||straight / smooth|Sin rizos; sin arrugas.|Pelo liso y castaño.|descripción|lacio
+guapo|adj||good-looking|De aspecto atractivo.|¡Qué guapo vas hoy!|descripción|
+parecerse|v||to look like / to resemble|Tener rasgos similares.|Te pareces mucho a tu madre.|descripción|
+aspecto|n|m|appearance / aspect|Forma exterior.|Tiene buen aspecto.|descripción|
+edad|n|f|age|Tiempo vivido.|¿Qué edad tiene tu hijo?|descripción|
+mayor|adj||older / elderly / bigger|De más edad; grande.|Mi hermana mayor vive en Italia.|descripción|
+joven|adj||young|De poca edad.|Es muy joven para ser jefe.|descripción|
